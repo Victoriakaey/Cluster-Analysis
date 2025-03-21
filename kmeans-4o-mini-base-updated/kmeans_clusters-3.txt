@@ -1,0 +1,722 @@
+Cluster 1:
+- Sleep: The last action is still in progress and I cannot execute further actions.
+- Sleep: The last action is still in progress, and there are no suspicious activities detected.
+- Sleep: The last action is still in progress, so no further actions can be taken at this time.
+- Sleep: The last action is still in progress, so I will remain in a sleep state until further updates.
+- Sleep: The last action is still in progress and requires additional time to complete.
+- Sleep: The last action is in progress and needs to be completed before taking further action.
+- Sleep: The last action is still in progress, and I need to wait for it to complete before taking further action.
+- Sleep: The last action is still in progress and requires no further action at this moment.
+- Sleep: The last action is IN_PROGRESS, and no suspicious activity is detected.
+- Sleep: The last action is still in progress, so sleeping is necessary.
+- Sleep: The last action is currently in progress, and further action cannot be taken until that is resolved.
+- Sleep: The last action is currently IN_PROGRESS, and we need to maintain the current state until completion.
+- Sleep: The last action is still in progress, and we need to wait for it to complete.
+- Sleep: The last action is still in progress and cannot be repeated.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress, and further actions cannot be executed until it completes.
+- Sleep: The last action is still in progress, and we need to wait for it to complete.
+- Sleep: The last action was not completed yet, so I will wait.
+- Sleep: The last action status is UNKNOWN, indicating ongoing action that requires no further action at this time.
+- Sleep: The last action is in progress and status is unknown.
+- Sleep: Last action status is UNKNOWN, indicating I need to wait for ongoing processes to complete.
+- Sleep: Last action status is UNKNOWN, indicating that previous actions are still processing.
+- Sleep: Previous action is in progress and needs to be completed before taking further action.
+- Sleep: The last action is currently in progress and cannot be interrupted.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: The last action is in progress and needs to be completed before taking further actions.
+- Sleep: Last action is still in progress and needs to complete before taking further action.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action status is UNKNOWN and needs to be completed before proceeding.
+- Sleep: The last action is still in progress, so I need to wait for it to complete.
+- Sleep: The last action was not completed yet, so I will wait for it to finish.
+- Sleep: The last action is still in progress, waiting for its completion.
+- Sleep: Last action status is UNKNOWN, continuing to wait for action completion.
+- Sleep: Last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: The last action status is unknown, indicating ongoing processes that require monitoring.
+- Sleep: The last action status is unknown and it is currently in progress.
+- Sleep: The last action is still in progress and requires additional time to complete.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: Last action was successful and there are no suspicious activities detected.
+- Sleep: The last action is currently in progress and cannot be interrupted.
+- Sleep: Last action is currently in progress and its status is unknown.
+- Sleep: The last action is in progress, and no further actions can be taken until it is completed.
+- Sleep: Last action is in progress and cannot proceed further.
+- Sleep: The last action is still in progress and requires waiting for completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Previous action status is unknown, continuing to wait for completion.
+- Sleep: The last action is still in progress, so waiting is necessary.
+- Sleep: Last action status is UNKNOWN, ensure previous action completes before taking further action.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Analyse: Further investigation is needed due to suspicious connection activity detected on the host.
+- Sleep: The last action is currently IN_PROGRESS and needs to be awaited.
+- Sleep: Last action is currently in progress and its status is unknown.
+- Sleep: The last action is still in progress, so no new action is needed.
+- Sleep: Last action is currently in progress and its status is unknown.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: The last action is in progress, and I need to wait until it completes.
+- Sleep: Last action is in progress and status is unknown, waiting for action to complete.
+- Sleep: Last action is currently in progress, waiting for completion.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress, and it's necessary to wait before taking further action.
+- Sleep: The last action is still in progress, so no further actions can be executed at the moment.
+- Sleep: The last action status is UNKNOWN and requires completion.
+- Sleep: The last action is still in progress and its success is unknown.
+- Sleep: Last action is currently in progress, and no new suspicious activity has been detected.
+- Sleep: Last action is still in progress and needs to be completed before further actions can be taken.
+- Sleep: Current action status is UNKNOWN, indicating the need to wait for the previous action to complete.
+- Sleep: The last action is in progress, and further action cannot be taken until it's completed.
+- Sleep: The last action status is unknown, and no further action can be determined without additional analysis.
+- Sleep: Last action status is UNKNOWN and requires no further immediate actions.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: The last action is still in progress, so I will wait for its completion.
+- Analyse: Suspicious activity detected on host, need to gather more information about potential red agent presence.
+- Sleep: The last action status is unknown and it is still in progress.
+- Sleep: The last action is still in progress and needs to be monitored.
+- Sleep: The last action is still in progress and requires monitoring.
+- Sleep: Last action status is UNKNOWN, indicating ongoing actions that may not be completed.
+- Sleep: The previous action is still in progress, so I will wait.
+- Sleep: The last action status is UNKNOWN, indicating an ongoing process that needs to complete.
+- Sleep: The last action is still in progress and requires waiting.
+- Analyse: Suspicious activity detected on the host indicating potential red agent presence.
+- Sleep: The last action was in progress and its status is unknown, so I will wait.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Last action status is UNKNOWN; waiting for action completion.
+- Sleep: No suspicious activity detected, and previous action status is unknown.
+- Sleep: Last action is in progress, maintaining current state until completion.
+- Sleep: The last action is currently in progress, so I will wait until it completes.
+- Sleep: Last action status is UNKNOWN, indicating that previous action may still be in progress.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress and needs to be completed.
+- Sleep: The last action is still in progress, indicating ongoing processes that need to complete.
+- Sleep: The last action is in progress and its status is unknown, requiring a pause.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action may still be in progress.
+- Sleep: The last action is in progress, and no suspicious activity has been detected.
+- Sleep: The last action is currently unknown and requires no further action at this time.
+- Sleep: The last action is currently in progress and the success status is unknown.
+- Sleep: The last action is still in progress.
+- Sleep: Last action status is unknown, continuing to wait for action to complete.
+- Sleep: The last action status is UNKNOWN, indicating potential ongoing processes.
+- Sleep: The last action is still in progress and the status is unknown.
+- Sleep: Last action status is UNKNOWN, continuing to wait.
+- Sleep: Last action status is UNKNOWN, indicating that the previous action is still IN_PROGRESS.
+- Sleep: Last action status is UNKNOWN, indicating a need to wait for previous processes to complete.
+- Sleep: No suspicious activity detected and last action status is unknown.
+- Sleep: No suspicious activity detected and last action status is UNKNOWN, ensuring current actions are completed before any further actions.
+- Sleep: The previous action of analyzing the host is still in progress.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action status is UNKNOWN, indicating current actions are still in process.
+- Sleep: The last action is in progress and cannot be interrupted.
+- Sleep: No suspicious activity detected and the last action status is unknown.
+- Sleep: Last action status is UNKNOWN, hence I will wait for the ongoing action to complete.
+- Sleep: Last action is still in progress, awaiting completion.
+- Analyse: Suspicious activity detected on the host indicating potential presence of a red agent.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress, and further actions should wait.
+- Sleep: The last action status is UNKNOWN, indicating ongoing processes that require waiting.
+- Sleep: The last action is still in progress and we cannot proceed without knowing its outcome.
+- Sleep: The last action is still in progress and needs to be completed before taking further action.
+- Sleep: The last action is in progress and requires further waiting.
+- Sleep: Last action is in progress and status is unknown, waiting for it to complete.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action status is UNKNOWN, indicating the current operation is still in progress.
+- Sleep: Last action is still in progress, waiting for it to complete.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: Last action is still in progress and cannot be interrupted.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Last action status is UNKNOWN and no suspicious activity detected.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Analyse: Suspicious activity detected on the host necessitates further investigation.
+- Analyse: Suspicious activity detected on the host that needs further investigation.
+- Sleep: Last action status is UNKNOWN, indicating an ongoing process that requires waiting.
+- Sleep: The last action is still in progress, and the status is unknown.
+- Sleep: Last action is still in progress and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: The last action is currently in progress, and no suspicious activity has been detected.
+- Sleep: Last action status is UNKNOWN, continuing to wait for the previous action to complete.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Current action status is UNKNOWN and requires waiting for completion.
+- Sleep: Last action status is UNKNOWN, indicating that the previous task is still in progress.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action is in progress and its status is unknown, requiring a wait for completion.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is currently in progress, awaiting completion.
+- Sleep: Last action is in progress, cannot execute further actions until it's completed.
+- Sleep: No suspicious activity detected and the last action status is unknown.
+- Sleep: Last action status is unknown, continue waiting for completion.
+- Sleep: The last action is still in progress and the status is unknown.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes, and no suspicious activity detected.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: Last action status is UNKNOWN, indicating that previous actions are still being processed.
+- Sleep: Last action is still in progress and its status is unknown.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is still in progress and its status is unknown, indicating that we should wait before taking further action.
+- Sleep: Last action is still in progress, waiting for completion before taking further actions.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: The last action is in progress, so I will wait for it to complete before taking further action.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress and requires waiting for completion before taking further action.
+- Sleep: The last action status is unknown, indicating that previous actions are not yet completed.
+- Sleep: Last action status is unknown; waiting for completion of previous action.
+- Analyse: Suspicious activity detected on the host, which requires further investigation.
+- Sleep: The last action is in progress and further action should wait until it is completed.
+- Sleep: The last action is still in progress and requires no immediate additional action.
+- Sleep: Last action status is UNKNOWN, continuing to wait for previous actions to complete.
+- Sleep: Last action is still in progress, waiting for completion.
+- Analyse: Suspicious activity detected on the host, necessitating further investigation.
+- Sleep: The last action is currently in progress, and no further actions can be taken until it completes.
+- Sleep: The last action is still in progress, indicating further analysis is required.
+- Analyse: Suspicious activity detected on the host; analysis is required to assess the situation.
+- Sleep: Last action status is unknown, need to wait for ongoing actions to complete.
+- Sleep: The last action is still in progress and requires additional time.
+- Sleep: Last action is still in progress, maintaining current status.
+- Sleep: Last action is still IN_PROGRESS and status is UNKNOWN.
+- Sleep: Last action status is UNKNOWN, so continue to sleep until the last action is resolved.
+- Sleep: The last action status is unknown, indicating that the previous action did not complete, and I should wait.
+- Sleep: Last action status is UNKNOWN, maintaining current state until further clarity on action completion.
+- Sleep: Last action status is UNKNOWN, continuing to wait.
+- Sleep: Last action status is unknown and no suspicious activity is detected.
+- Sleep: Last action status is unknown, maintaining current state until action completes.
+- Sleep: The last action is still in progress and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and needs to be completed.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action status is UNKNOWN, waiting for completion.
+- Sleep: The last action is currently in progress and needs to complete.
+- Sleep: Last action is in progress and cannot take new actions.
+- Sleep: Last action status is UNKNOWN, indicating that a previous action is still in progress.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: Last action status is UNKNOWN, indicating further action is pending.
+- Sleep: The last action of analysing the host is still in progress, waiting for completion.
+- Analyse: To collect further information relating to suspicious activity detected on the host.
+- Sleep: The last action is in progress and needs to be completed.
+- Sleep: The last action is still in progress and requires the agent to wait.
+- Sleep: The last action status is UNKNOWN, indicating that the action is still in progress.
+- Sleep: Last action status is UNKNOWN, so I must wait for the previous action to complete.
+- Sleep: The last action status is UNKNOWN, and we need to wait until the current action is completed.
+- Sleep: The last action is in progress and needs to complete.
+- Sleep: The last action is in progress, and no immediate action is required based on the current network status.
+- Sleep: The previous action of analysing the host is still in progress.
+- Sleep: The last action is still in progress, and further action cannot be taken until it is completed.
+- Sleep: Last action is IN_PROGRESS and status is UNKNOWN.
+- Sleep: The last action was IN_PROGRESS, and its status is UNKNOWN.
+- Sleep: The last action status is unknown, and it's important to wait for the completion of the current actions before taking further steps.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: Last action is still in progress, monitoring is necessary.
+- Sleep: Current action status is UNKNOWN; it is prudent to wait for the action to complete.
+- Sleep: The last action is currently in progress, and we need to wait for its completion.
+- Sleep: The last action is still IN_PROGRESS, so I need to wait before performing additional actions.
+- Sleep: Last action status is UNKNOWN, continuing to wait is appropriate.
+- Sleep: The last action is IN_PROGRESS, indicating ongoing processes that need to be completed.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: Last action is still in progress and cannot be interrupted.
+- Sleep: The last action status is unknown, and I need to wait for the completion of the previous action.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and needs to be completed before taking further action.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action status is UNKNOWN and further action cannot be taken until the current action completes.
+- Sleep: Last action is IN_PROGRESS and cannot take further actions until completed.
+- Sleep: Last action status is UNKNOWN, so I will wait for the previous action to complete.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, need to wait for current action to complete.
+- Sleep: Last action is still in progress, waiting for its completion.
+- Sleep: Last action status is unknown, and I need to wait for it to complete before proceeding.
+- Sleep: Last action is still in progress and cannot proceed with new actions.
+- Sleep: The last action is in progress, and no suspicious activities are detected.
+- Sleep: The last action is in progress, so I will wait.
+- Sleep: The last action is in progress and status is unknown, indicating that further action cannot be taken until it completes.
+- Sleep: Last action status is UNKNOWN, waiting for action to complete.
+- Sleep: The last action is still IN_PROGRESS, so I will wait for it to complete.
+- Sleep: No suspicious activity detected and last action was successful.
+- Sleep: The last action is still in progress.
+- Sleep: The last action is in progress and needs to be awaited.
+- Sleep: Last action status is UNKNOWN, indicating that a previous action is still in progress.
+- Sleep: Last action is currently in progress and its status is unknown.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Sleep: Last action is still in progress, waiting for completion before taking further actions.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes that need to be completed before taking further action.
+- Sleep: Last action is still in progress, waiting for execution completion.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: The last action is currently in progress, and further action cannot be taken until it is resolved.
+- Sleep: The last action is in an unknown state, and no suspicious activity is detected.
+- Sleep: The last action is still in progress and needs to complete before taking further action.
+- Analyse: Suspicious connections detected indicating potential red agent activity.
+- Sleep: Last action is in progress, waiting for completion.
+- Sleep: The last action status is UNKNOWN, indicating that I need to wait for the previous action to complete.
+- Sleep: The last action is still in progress, indicating ongoing analysis.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Sleep: The last action is currently in progress and further action cannot be taken until it is completed.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is still in progress and status is unknown.
+- Sleep: Last action status is UNKNOWN and requires no immediate action.
+- Sleep: The previous action is still in progress, waiting for its completion.
+- Sleep: The previous action is still in progress and cannot be repeated until it is complete.
+- Sleep: The last action is currently IN_PROGRESS and needs to be completed.
+- Sleep: The last action is still in progress and needs to complete.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: Last action is still in progress; waiting for completion before taking further action.
+- Sleep: The last action is still in progress and needs to complete before taking further actions.
+- Sleep: The last action status is UNKNOWN, indicating that previous actions are still in progress.
+- Sleep: The last action status is UNKNOWN, indicating an ongoing process that requires monitoring.
+- Sleep: The last action is still in progress, and we need to wait for its completion.
+- Sleep: Last action is in progress, waiting for completion.
+- Analyse: There are connections detected which could indicate suspicious activity, requiring further analysis.
+- Sleep: Previous action status is UNKNOWN, waiting for completion.
+- Sleep: Last action status is UNKNOWN, so I will wait for the ongoing action to complete.
+- Sleep: The last action is still in progress, so sleeping until it completes.
+- Sleep: The last action is still in progress and needs to be completed.
+- Sleep: Previous action status is unknown and requires waiting for completion.
+- Sleep: The last action is in progress and the status is unknown, necessitating a wait.
+- Sleep: Last action is currently in progress, waiting for completion before taking further action.
+- Sleep: Last action is still in progress, awaiting confirmation before proceeding.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is still in progress, so no further action can be taken.
+- Sleep: The last action is currently in progress, and it's necessary to wait before taking further action.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress and needs to be completed before taking further action.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: No suspicious activity detected and the last action is in progress.
+- Sleep: Last action status is UNKNOWN, indicating that the current action is still in progress.
+- Sleep: The last action is still in progress and cannot be repeated until completion.
+- Sleep: Last action status is UNKNOWN, indicating that another action is currently in progress.
+- Sleep: The last action is still in progress and requires monitoring.
+- Sleep: Last action status is UNKNOWN, indicating that there may be ongoing action processes.
+- Sleep: The last action is still in progress and no suspicious activity has been detected.
+- Sleep: Last action is still in progress, no immediate actions can be taken until it completes.
+- Sleep: The last action status is unknown, indicating it is still in progress.
+- Sleep: Last action status is UNKNOWN, need to wait for completion.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress, requiring no further action at this moment.
+- Analyse: Suspicious activity detected on the host, indicating potential presence of a red agent.
+- Analyse: Suspicious activity detected indicates potential red agent communication.
+- Sleep: The last action of analysing the host is still in progress.
+- Sleep: The last action is currently IN_PROGRESS, and I need to wait for its completion.
+- Sleep: The previous action is still in progress and needs to be completed before taking further steps.
+- Sleep: The last action status is unknown, indicating that I should wait for the previous operation to complete.
+- Sleep: Last action status is UNKNOWN, indicating previous action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Last action status is UNKNOWN, continuing to wait for completion.
+- Sleep: The last action is in progress and awaiting confirmation.
+- Sleep: Current action status is UNKNOWN and no suspicious activity is detected.
+- Sleep: Last action is still in progress and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, indicating it is still in progress and requires waiting.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is currently in progress, and no suspicious activity has been detected.
+- Sleep: The last action is in progress and status is unknown, thus no further action can be taken at this moment.
+- Sleep: Last action status is unknown, waiting for completion before taking further actions.
+- Sleep: The last action is still in progress, no further actions can be taken.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Last action is in progress and its status is unknown.
+- Sleep: The last action status is UNKNOWN, indicating that the system is currently in a sleep state and should continue to wait.
+
+Cluster 2:
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Sleep: Last action status is UNKNOWN, indicating we should wait for the action to complete.
+- Sleep: The last action is currently in progress and needs to be completed before taking further action.
+- Sleep: The last action is still in progress and we need to wait for its completion.
+- Sleep: Last action is in progress, waiting for completion before taking further action.
+- Sleep: The last action is still in progress, and further actions cannot be executed until it's completed.
+- Sleep: The last action status is unknown, indicating that an action is currently in progress.
+- Sleep: Last action status is UNKNOWN, indicating action is still in progress.
+- Sleep: The last action status is unknown and pending completion.
+- Sleep: The last action was successful and there is no suspicious activity detected.
+- Sleep: The last action is currently in progress and needs to be completed before taking further action.
+- Analyse: Suspicious activity detected on the host.
+- Sleep: The last action status is UNKNOWN and requires no further actions at this time.
+- Sleep: The last action is currently in progress and cannot be interrupted.
+- Sleep: The last action is IN_PROGRESS and its status is UNKNOWN.
+- Sleep: The last action is still in progress and requires monitoring.
+- Sleep: The last action is still in progress and status is unknown.
+- Sleep: The last action is still IN_PROGRESS, so I will wait for it to complete.
+- Sleep: The last action is in progress and the status is unknown.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and needs to be completed before taking further action.
+- Sleep: Last action status is UNKNOWN and requires time to determine the outcome.
+- Sleep: The last action of analyzing the host is still in progress, so I will wait.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action status is unknown; waiting for action to complete.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: The last action of analysing the host is still in progress.
+- Sleep: The last action is still in progress, so we need to wait.
+- Sleep: The last action is currently in progress and the status is unknown.
+- Sleep: Last action status is unknown, continuing to sleep until the process is completed.
+- Sleep: Last action status is UNKNOWN, continuing to wait for action completion.
+- Sleep: The last action is still in progress, and we cannot take further action until it completes.
+- Sleep: The last action is currently in progress.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress, so I will wait.
+- Sleep: Last action is currently in progress, no action should be repeated.
+- Sleep: The last action is still in progress and needs to be completed.
+- Sleep: The last action status is unknown, indicating that a previously initiated action is still in progress.
+- Sleep: The last action was not completed yet and needs to be allowed to finish.
+- Sleep: The last action is still in progress and no suspicious activity is detected.
+- Sleep: Last action is still in progress, awaiting completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation to identify potential red presence.
+- Sleep: The last action status is UNKNOWN, indicating ongoing actions that need to be completed before executing further actions.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action was IN_PROGRESS and status is UNKNOWN.
+- Sleep: The last action is in progress, and there is no suspicious activity detected.
+- Sleep: The last action is in progress and the status is unknown.
+- Sleep: The last action is currently in progress and needs to be allowed to complete.
+- Sleep: The last action is currently in progress and its status is unknown.
+
+Cluster 0:
+- Sleep: Last action status is UNKNOWN, indicating the prior action is still in progress.
+- Sleep: Last action status is UNKNOWN, indicating ongoing operations.
+- Sleep: The last action status is unknown, indicating ongoing activities that require monitoring.
+- Sleep: Last action status is unknown, and current action is still in progress.
+- Sleep: The last action is still in progress and the status is unknown.
+- Sleep: Current action status is unknown, so waiting for ongoing actions to complete.
+- Sleep: Last action status is UNKNOWN and requires confirmation before proceeding.
+- Sleep: The last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating that the ongoing process may still require attention.
+- Sleep: Last action status is UNKNOWN, awaiting completion before proceeding.
+- Sleep: Last action status is UNKNOWN, indicating no clear outcome from the previous actions.
+- Sleep: Previous action status is UNKNOWN, indicating that I need to wait for ongoing actions to complete.
+- Sleep: Last action is currently in progress; maintaining status until it's completed.
+- Sleep: The last action is currently in progress, and it is necessary to wait.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: The last action is still in progress and cannot proceed until it's completed.
+- Sleep: Last action was IN_PROGRESS and the status is UNKNOWN.
+- Sleep: The last action status is UNKNOWN, indicating it is still in progress.
+- Sleep: Last action status is UNKNOWN, requiring wait for ongoing processes.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is currently in progress and requires no further action.
+- Sleep: The last action status is UNKNOWN and requires further observation before taking additional action.
+- Sleep: The last action status is UNKNOWN, indicating that I should remain in a wait state.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Last action is still in progress, waiting for completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action is currently IN_PROGRESS, waiting for completion.
+- Sleep: Last action status is UNKNOWN, waiting for completion.
+- Sleep: Last action status is UNKNOWN, and no further action is required at the moment.
+- Sleep: Last action status is unknown, waiting for ongoing actions to complete.
+- Sleep: Last action is currently in progress and needs to be completed.
+- Sleep: Previous action is still IN_PROGRESS.
+- Sleep: The last action is in an unknown status, indicating it is still in progress.
+- Remove: A red agent has been detected on the host indicating a user-level compromise.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action of analyzing the host is still in progress, so I will wait.
+- Sleep: The last action is still in progress, so I will wait.
+- Sleep: The last action is still in progress and we should wait for its completion.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes that require monitoring.
+- Sleep: The last action is in progress, and we need to wait for its completion.
+- Sleep: The last action is in progress, and no suspicious activity detected.
+- Sleep: The last action was executed and its status is UNKNOWN, indicating ongoing processes.
+- Sleep: The last action is still in progress, and further actions cannot be taken until completion.
+- Sleep: The last action is still in progress and requires no immediate follow-up action.
+- Sleep: Last action is in progress and status is unknown.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: Last action is still in progress and its status is unknown.
+- Sleep: The last action status is UNKNOWN, indicating that action processing is still ongoing.
+- Sleep: Last action is still in progress and cannot execute a new action yet.
+- Sleep: The last action is in progress, and no suspicious activity has been detected.
+- Sleep: Last action status is UNKNOWN, and the action is still in progress.
+- Sleep: Last action status is unknown and requires further monitoring.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: Last action status is unknown and needs to be confirmed before further actions can be taken.
+- Sleep: Previous action is still in progress, cannot take further action.
+- Sleep: The last action is still in progress.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Previous action status is UNKNOWN, indicating that an action is still in progress.
+- Sleep: Last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating that an action is already in progress.
+- Sleep: Last action status is UNKNOWN, indicating that an action is already in progress.
+- Sleep: The previous action is still in progress, and further action cannot be taken until it completes.
+- Analyse: Suspicious connection activity detected on the host, warranting further investigation.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action of analysing the host is still in progress, so no further action can be taken yet.
+- Analyse: Suspicious connections detected, need to investigate for potential red activity.
+- Sleep: Last action status is UNKNOWN and requires waiting for completion.
+- Sleep: The last action is currently in progress, so I will wait.
+- Sleep: The last action is still in progress and requires no further action at this moment.
+- Sleep: Last action status is unknown, so I will wait to ensure all processes are completed before taking further action.
+- Sleep: Last action status is UNKNOWN, and no suspicious activity detected.
+- Sleep: The last action is still in progress, and no suspicious activity is detected.
+- Sleep: The last action is still in progress and it is unknown if it has been completed.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: Previous action status is UNKNOWN, continuing to wait for completion.
+- Sleep: The last action status is UNKNOWN, indicating it's still in progress.
+- Sleep: The last action is still in progress and we cannot determine its success.
+- Sleep: The last action status is UNKNOWN, indicating ongoing processes that need to be completed before taking further action.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: Last action status is UNKNOWN, need to wait for previous actions to complete.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: The last action is still in progress and needs to be completed before taking further action.
+- Sleep: Last action status is unknown, need to wait for it to complete before taking further action.
+- Remove: Red agent detected on the host, indicating a user-level compromise.
+- Sleep: The last action is still in progress and we need to wait for its completion.
+- Sleep: Previous action is still in progress and needs to be completed.
+- Sleep: Last action was not completed yet and requires waiting.
+- Sleep: The last action is in progress, indicating ongoing operations.
+- Sleep: The last action status is UNKNOWN, indicating previous action is still ongoing.
+- Sleep: The last action is currently in progress, and I need to wait for its completion.
+- Sleep: Last action status is UNKNOWN, need to wait for the current action to complete.
+- Sleep: The last action is still in progress and cannot proceed with further actions.
+- Sleep: The previous action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating that further action should be deferred until the current action is resolved.
+- Sleep: Last action status is UNKNOWN, waiting for previous action to complete.
+- Sleep: Last action status is UNKNOWN, thus I will wait for its completion.
+- Sleep: The last action was unknown, indicating the system may still be processing.
+- Sleep: The last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress and further action cannot be taken until it is completed.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress and no suspicious activity has been detected.
+- Sleep: The last action is currently in progress, and I need to wait for it to complete.
+- Sleep: The last action is currently in progress, and further actions cannot be executed until it completes.
+- Sleep: No suspicious activity detected; previous action status is unknown.
+- Sleep: The last action is currently in progress and cannot be interrupted.
+- Sleep: Last action is still in progress.
+- Sleep: Last action status is UNKNOWN and requires further time for completion.
+- Sleep: The last action is still in progress and no suspicious activity is detected.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action status is unknown and no suspicious activity has been detected, indicating that we should wait for the previous action to complete.
+- Sleep: The last action is in progress and we cannot determine its outcome.
+- Sleep: The last action is in progress and its status is unknown, so further action should wait.
+- Sleep: The last action is still in progress, maintaining current state.
+- Sleep: The last action is still IN_PROGRESS and no suspicious activity has been detected.
+- Sleep: Last action status is unknown and requires waiting for completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation for potential red agent presence.
+- Sleep: The last action is IN_PROGRESS, so I will wait for its completion.
+- Sleep: The last action is currently in progress, and I need to wait for it to complete.
+- Sleep: Last action status is UNKNOWN, indicating no further actions can be taken at this time.
+- Sleep: Last action is still in progress and status is unknown, therefore, I will wait.
+- Sleep: The last action is still in progress, so no further action can be taken at this moment.
+- Sleep: The last action is still in progress and we are awaiting its completion.
+- Sleep: The last action is still in progress and requires no immediate further action.
+- Sleep: No suspicious activity detected and the last action status is unknown.
+- Sleep: The last action is still in progress and needs to be completed.
+- Analyse: Suspicious activity detected on this host, requiring further investigation.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action status is UNKNOWN, so the current action should be maintained until further assessment is possible.
+- Sleep: The last action of analyzing the host is still in progress.
+- Sleep: The last action is in progress and further action cannot be taken until it completes.
+- Sleep: The previous action of analyzing the host is still in progress.
+- Sleep: The last action is currently in progress, and no suspicious activity has been detected.
+- Sleep: Last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is still in progress and has an unknown status.
+- Sleep: The last action is still in progress and needs to be completed before executing any further actions.
+- Sleep: Last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: The last action status is unknown, indicating the prior action is still in progress.
+- Sleep: The last action is currently in progress and its status is unknown.
+- Sleep: The last action was not completed yet.
+- Sleep: The last action status is unknown, indicating that no new actions can be performed until the current operations are completed.
+- Sleep: Last action status is unknown; waiting for action completion.
+- Sleep: The last action is still in progress, and I need to wait for its completion.
+- Sleep: The previous action is still in progress and cannot be interrupted.
+- Analyse: Suspicious activity detected on host, needs analysis to identify potential red agent presence.
+- Analyse: Suspicious activity detected on the host, indicating potential red activity.
+- Sleep: The last action is still in progress.
+- Sleep: The last action is still in progress, and no immediate threat has been detected.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: Last action is currently unknown and still in progress.
+- Sleep: The last action is currently in progress, and further action cannot be taken until completion.
+- Sleep: Last action is currently IN_PROGRESS and its status is UNKNOWN.
+- Sleep: The last action is in progress and status is unknown, indicating that we should wait.
+- Sleep: The last action status is UNKNOWN and no suspicious activity detected, so I will wait.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: The last action is currently IN_PROGRESS and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, waiting for the previous action to complete.
+- Sleep: The previous action is still in progress and requires no further action at this time.
+- Sleep: The last action is still in progress and the status is UNKNOWN.
+- Sleep: Last action status is UNKNOWN, continuing to wait for execution completion.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes or actions.
+- Sleep: The last action is still in progress, and further actions cannot be taken until it completes.
+- Sleep: The last action is currently in progress and cannot proceed with a new action.
+- Sleep: Previous action status is UNKNOWN; waiting for action to complete.
+- Sleep: Last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: Last action status is UNKNOWN, waiting for resolution.
+- Sleep: The last action is still in progress and status is unknown.
+- Sleep: The last action status is unknown and it is in progress.
+- Sleep: The last action is currently in progress and cannot be interrupted.
+- Sleep: The last action is still in progress and I cannot take any new action.
+- Sleep: Last action is still in progress, awaiting further developments.
+- Sleep: The last action is still IN_PROGRESS and needs to be completed before taking further action.
+- Sleep: The last action is still in progress, awaiting completion.
+- Sleep: The last action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating ongoing processes.
+- Sleep: The last action is in progress, and further action cannot be taken until it completes.
+- Sleep: The last action is still in progress, so I will wait.
+- Sleep: No suspicious activity detected and the last action is still in progress.
+- Sleep: The last action status is UNKNOWN, indicating I should wait.
+- Sleep: Last action status is UNKNOWN, requiring a pause until action completion is confirmed.
+- Sleep: Last action status is UNKNOWN, so I will continue to wait for the previous action to complete.
+- Sleep: Last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: The last action is still in progress and requires waiting for completion.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: The last action is still in progress, requiring the agent to wait.
+- Sleep: Last action status is UNKNOWN, so waiting for the action to complete.
+- Sleep: Last action is still in progress, waiting for it to complete.
+- Sleep: The last action is IN_PROGRESS and its status is UNKNOWN.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action status is UNKNOWN, indicating ongoing operations.
+- Sleep: The last action status is UNKNOWN, indicating that action is still in progress.
+- Analyse: Suspicious process detected on the host indicating possible red activity.
+- Sleep: Current action status is UNKNOWN; no immediate threat detected to act upon.
+- Sleep: Last action status is unknown, so I will wait for the current action to complete.
+- Analyse: Suspicious activity detected on host indicates possible red agent presence.
+- Sleep: Last action is in an unknown state and requires waiting for its completion.
+- Sleep: The last action status is unknown, and further action should wait until the current action completes.
+- Sleep: The last action is still in progress and requires no further action at this moment.
+- Sleep: The last action is still IN_PROGRESS, and further actions cannot be taken until it completes.
+- Sleep: The last action is still in progress, so I will maintain the current state.
+- Sleep: The last action was IN_PROGRESS and its status is UNKNOWN.
+- Sleep: The last action status is UNKNOWN, indicating an ongoing process.
+- Sleep: Last action status is UNKNOWN, continuing to sleep until the previous action is complete.
+- Analyse: Suspicious activity detected on the host, requiring analysis for potential red agent presence.
+- Sleep: The last action is still in progress and requires waiting.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: The last action is still in progress, so I will continue to wait.
+- Sleep: The last action is still in progress, and further actions cannot be taken until completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes and a need to wait.
+- Sleep: The last action is currently in progress, and no further actions can be taken until it is resolved.
+- Sleep: The last action is still in progress and further actions cannot be taken at this time.
+- Sleep: The last action is currently IN_PROGRESS, and further actions cannot be taken until it is resolved.
+- Sleep: Last action is still in progress and it's unknown if it has completed.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: Last action is in progress and status is unknown, no immediate action required.
+- Sleep: The last action is still in progress and further actions cannot be taken until it is completed.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: The last action is still in progress, and no additional action can be taken at this time.
+- Sleep: The last action is currently in progress and I need to wait for its completion.
+- Sleep: Last action status is unknown, maintaining current state.
+- Sleep: Last action is still in progress, no further actions can be taken until it completes.
+- Sleep: Last action status is unknown, waiting for the ongoing action to complete.
+- Sleep: The last action status is UNKNOWN, so I will wait for the current action to complete.
+- Remove: Host has been compromised with suspicious activity detected.
+- Sleep: Previous action status is UNKNOWN, continuing to wait for completion.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, indicating we need to wait for the completion of the ongoing action.
+- Sleep: The last action status is unknown, indicating ongoing processes that require monitoring.
+- Sleep: Previous action status is UNKNOWN, indicating a need to wait for completion.
+- Sleep: Last action is still in progress and the success of previous actions is unknown.
+- Sleep: Previous action is still in progress and no suspicious activity detected.
+- Sleep: The last action is still in progress, requiring a wait before proceeding.
+- Sleep: Last action status is UNKNOWN, continuing to wait for previous action to complete.
+- Analyse: Suspicious connections detected on the host, requiring further investigation.
+- Sleep: The last action status is UNKNOWN, indicating that I should wait for the outcome of the previous action.
+- Sleep: The last action status is UNKNOWN, indicating an ongoing process that requires waiting.
+- Sleep: The last action is still in progress, indicating ongoing operations.
+- Sleep: The previous action is still in progress and the status is unknown.
+- Sleep: The last action is still in progress and requires no further action at this moment.
+- Sleep: Last action is in progress, waiting for it to complete.
+- Sleep: The last action is still in progress, awaiting completion.
+- Sleep: The last action is IN_PROGRESS and status is UNKNOWN, indicating action status needs to be confirmed.
+- Sleep: The last action is still in progress, and no further action can be taken yet.
+- Sleep: The last action is still in progress, so we must wait for it to complete.
+- Sleep: Last action status is unknown, indicating multiple steps are in progress.
+- Sleep: The last action is currently in progress and requires no further actions.
+- Sleep: Last action is in progress and status is unknown, indicating that further actions should be delayed until completion.
+- Sleep: Last action is currently in progress and cannot be interrupted.
+- Sleep: Last action was IN_PROGRESS, ensuring no further interruptions occur until completion.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: The last action is still in progress and further actions cannot be executed yet.
+- Sleep: The last action is still in progress, so it is necessary to wait.
+- Sleep: The last action of analyzing the host is still in progress, so I will wait.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Sleep: The last action status is unknown and needs to be completed before taking further action.
+- Sleep: The last action status is UNKNOWN, indicating that an action is still in progress.
+- Sleep: Last action is still in progress; no further action can be taken until it completes.
+- Sleep: Last action was not confirmed, and no suspicious activity detected.
+- Sleep: Last action status is unknown, waiting for completion.
+- Sleep: The last action is still in progress and needs to be completed before any further actions can be taken.
+- Sleep: The last action is still in progress and requires no further action at this time.
+- Sleep: Last action status is UNKNOWN and it requires waiting for completion.
+- Sleep: The last action is still IN_PROGRESS and requires waiting.
+- Sleep: The last action is still in progress, indicating ongoing operations that need to be monitored.
+- Sleep: Last action was in progress and status is unknown, indicating need to wait.
+- Sleep: Last action is still in progress and no further actions can be taken until it completes.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: Last action is currently in progress, ensuring no conflicting actions are initiated.
+- Sleep: The last action is in progress, waiting for completion.
+- Sleep: The last action is still IN_PROGRESS and needs to be completed before taking further measures.
+- Sleep: Last action status is UNKNOWN; maintain current state until the previous action is resolved.
+- Sleep: The last action is still in progress, waiting for completion.
+- Analyse: Suspicious activity detected on the host, requiring further analysis to ascertain the extent of red agent involvement.
+- Sleep: The previous action is in progress and cannot proceed with further actions.
+- Sleep: The last action is currently in progress, waiting for confirmation.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: Previous action status is unknown, and it's necessary to wait for it to complete before taking further actions.
+- Sleep: Last action status is unknown, and further actions should wait until the current action is resolved.
+- Sleep: Last action status is UNKNOWN; waiting for ongoing action to complete.
+- Analyse: Suspicious connections detected; analysis needed to determine potential red agent activity.
+- Sleep: Last action is in progress and status is unknown.
+- Sleep: Last action was in progress and its status is unknown.
+- Sleep: Last action status is UNKNOWN; waiting for previous action to complete.
+- Sleep: The last action is still in progress and cannot be interrupted.
+- Sleep: Last action status is UNKNOWN, indicating ongoing processes that need to be complete before taking further action.
+- Sleep: Last action status is UNKNOWN; need to wait for ongoing actions to complete.
+- Sleep: The last action is still in progress, so I need to wait.
+- Sleep: The last action is still in progress, and further actions cannot be taken at this time.
+- Sleep: The last action is IN_PROGRESS and the status is UNKNOWN, so I will wait for its completion.
+- Sleep: The last action is in progress and its status is unknown.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still in progress.
+- Sleep: The last action is still IN_PROGRESS and requires no further immediate action.
+- Sleep: The last action status is UNKNOWN, indicating that we should wait for action completion.
+- Sleep: The last action is still in progress, and further actions should wait.
+- Sleep: The last action status is UNKNOWN, indicating that further actions cannot be determined until the previous action completes.
+- Sleep: Last action is still in progress and its success status is unknown.
+- Sleep: The last action is still in progress, indicating ongoing operations.
+- Sleep: The last action is in progress, and there is no new suspicious activity detected.
+- Sleep: No suspicious activity detected and last action was successful.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress and needs to be allowed to complete.
+- Sleep: Last action is still in progress and needs to be completed before taking further action.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: Last action status is UNKNOWN, so no further actions can be executed until the previous one is resolved.
+- Sleep: The previous action is still in progress.
+- Sleep: The last action is still in progress and requires no further actions at this time.
+- Sleep: The last action is still in progress, so no further actions are required at this time.
+- Sleep: Last action status is unknown, need to wait for completion.
+- Analyse: To investigate the connections detected for further suspicious activity.
+- Sleep: The last action is in progress, and additional actions should be delayed until it completes.
+- Sleep: The last action status is UNKNOWN, indicating that the previous action is still IN_PROGRESS.
+- Sleep: The last action is still in progress, and no suspicious activity has been detected.
+- Sleep: Previous action status is UNKNOWN, indicating ongoing processes that require waiting.
+- Sleep: The last action is still in progress and needs to be monitored.
+- Sleep: The last action is in progress and it's uncertain if further actions can be taken.
+- Sleep: Last action status is UNKNOWN and no suspicious activity detected.
+- Sleep: Last action is still in progress, waiting for completion.
+- Sleep: The last action is still in progress and needs to be allowed to complete.
+- Sleep: The last action is in progress, and further actions cannot be taken until completion.
+- Sleep: The last action is still in progress and its status is unknown.
+- Sleep: The last action was IN_PROGRESS and its status is UNKNOWN, indicating ongoing processes.
+- Sleep: The last action status is UNKNOWN, indicating the previous action is still in progress.
+- Sleep: Last action status is unknown, waiting for the current action to complete.
+- Sleep: The last action status is UNKNOWN, indicating uncertainty in the current state.
+- Sleep: The last action is still in progress, and further actions should wait until it is completed.
+- Sleep: The last action status is UNKNOWN, indicating that further actions should be delayed until the current status is clear.
+- Sleep: The previous action is still in progress, and no suspicious activity has been detected.
+- Sleep: The last action is currently in progress and cannot be repeated.
+- Sleep: The last action status is UNKNOWN, and we should wait for the previous action to complete.
+- Sleep: The last action is still in progress and its status is unknown, so I will continue to wait.
+- Sleep: Current action status is UNKNOWN, and no suspicious activity is detected.
+- Sleep: No suspicious activity detected and the last action is still in progress, indicating a cautious approach is required.
+- Sleep: The last action is still in progress, so no other action can be taken at this moment.
+- Sleep: The last action status is UNKNOWN, indicating ongoing processes that require waiting.
+- Sleep: Last action status is UNKNOWN, indicating that the previous action has not completed yet.
+- Sleep: The last action is still in progress, and no further action can be taken until it is completed.
+- Sleep: The last action is still in progress and needs to be completed.
+- Sleep: The last action is still in progress and needs to be allowed time to complete.
+- Sleep: Last action status is UNKNOWN, and no suspicious activity detected.
+- Sleep: The last action is still in progress, awaiting completion.
+- Sleep: Last action is still in progress and the status is unknown.
+- Sleep: Last action is in progress and status is unknown.
+

@@ -1,0 +1,1000 @@
+{"action": "Sleep", "reason": "The last action is still in progress and I cannot execute further actions."}
+{"action": "Sleep", "reason": "The last action is still in progress, and there are no suspicious activities detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further actions can be taken at this time."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential red agent presence."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will remain in a sleep state until further updates."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires additional time to complete."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the prior action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing operations."}
+{"action": "Sleep", "reason": "The last action is still in progress, and I need to wait for it to complete before taking further action."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating ongoing activities that require monitoring."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this moment."}
+{"action": "Sleep", "reason": "Last action status is unknown, and current action is still in progress."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, so sleeping is necessary."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further action cannot be taken until that is resolved."}
+{"action": "Sleep", "reason": "The last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "Current action status is unknown, so waiting for ongoing actions to complete."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS, and we need to maintain the current state until completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires confirmation before proceeding."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we need to wait for it to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be repeated."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the ongoing process may still require attention."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, awaiting completion before proceeding."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating no clear outcome from the previous actions."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, indicating that I need to wait for ongoing actions to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be executed until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we need to wait for it to complete."}
+{"action": "Sleep", "reason": "The last action was not completed yet, so I will wait."}
+{"action": "Sleep", "reason": "Last action is currently in progress; maintaining status until it's completed."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing action that requires no further action at this time."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and it is necessary to wait."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot proceed until it's completed."}
+{"action": "Sleep", "reason": "Last action was IN_PROGRESS and the status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating it is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, requiring wait for ongoing processes."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating I need to wait for ongoing processes to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that previous actions are still processing."}
+{"action": "Sleep", "reason": "Previous action is in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is currently in progress and requires no further action."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and requires further observation before taking additional action."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that I should remain in a wait state."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to be completed before taking further actions."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating we should wait for the action to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress and needs to complete before taking further action."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and needs to be completed before proceeding."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I need to wait for it to complete."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action was not completed yet, so I will wait for it to finish."}
+{"action": "Sleep", "reason": "Last action is currently IN_PROGRESS, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and no further action is required at the moment."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for action completion."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for ongoing actions to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action is currently in progress and needs to be completed."}
+{"action": "Sleep", "reason": "Previous action is still IN_PROGRESS."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating ongoing processes that require monitoring."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is in an unknown status, indicating it is still in progress."}
+{"action": "Sleep", "reason": "The last action status is unknown and it is currently in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires additional time to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action was successful and there are no suspicious activities detected."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Remove", "reason": "A red agent has been detected on the host indicating a user-level compromise."}
+{"action": "Sleep", "reason": "Last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress, and no further actions can be taken until it is completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "Last action is in progress and cannot proceed further."}
+{"action": "Sleep", "reason": "The last action is still in progress and we need to wait for its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress, so I will wait."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "Previous action status is unknown, continuing to wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, so waiting is necessary."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, ensure previous action completes before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and we should wait for its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Analyse", "reason": "Further investigation is needed due to suspicious connection activity detected on the host."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS and needs to be awaited."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that require monitoring."}
+{"action": "Sleep", "reason": "Last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no new action is needed."}
+{"action": "Sleep", "reason": "The last action is in progress, and we need to wait for its completion."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action was executed and its status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "Last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress, and I need to wait until it completes."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown, waiting for action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be taken until completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no immediate follow-up action."}
+{"action": "Sleep", "reason": "Last action is currently in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, and it's necessary to wait before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further actions can be executed at the moment."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential red agent presence."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that action processing is still ongoing."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and requires completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and its success is unknown."}
+{"action": "Sleep", "reason": "Last action is currently in progress, and no new suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot execute a new action yet."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and the action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is unknown and requires further monitoring."}
+{"action": "Sleep", "reason": "Last action is still in progress and needs to be completed before further actions can be taken."}
+{"action": "Sleep", "reason": "Last action is in progress, waiting for completion before taking further action."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN, indicating the need to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is in progress, and further action cannot be taken until it's completed."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be executed until it's completed."}
+{"action": "Sleep", "reason": "The last action status is unknown, and no further action can be determined without additional analysis."}
+{"action": "Sleep", "reason": "Last action status is unknown and needs to be confirmed before further actions can be taken."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires no further immediate actions."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that an action is currently in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Previous action is still in progress, cannot take further action."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait for its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating action is still in progress."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, indicating that an action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that an action is already in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that an action is already in progress."}
+{"action": "Sleep", "reason": "The previous action is still in progress, and further action cannot be taken until it completes."}
+{"action": "Analyse", "reason": "Suspicious activity detected on host, need to gather more information about potential red agent presence."}
+{"action": "Sleep", "reason": "The last action status is unknown and it is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be monitored."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires monitoring."}
+{"action": "Analyse", "reason": "Suspicious connection activity detected on the host, warranting further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing actions that may not be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action of analysing the host is still in progress, so no further action can be taken yet."}
+{"action": "Analyse", "reason": "Suspicious connections detected, need to investigate for potential red activity."}
+{"action": "Sleep", "reason": "The previous action is still in progress, so I will wait."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress, so I will wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating an ongoing process that needs to complete."}
+{"action": "Sleep", "reason": "The last action status is unknown and pending completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host indicating potential red agent presence."}
+{"action": "Sleep", "reason": "The last action was in progress and its status is unknown, so I will wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this moment."}
+{"action": "Sleep", "reason": "Last action status is unknown, so I will wait to ensure all processes are completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; waiting for action completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "No suspicious activity detected, and previous action status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and it is unknown if it has been completed."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "Last action is in progress, maintaining current state until completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress, so I will wait until it completes."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, continuing to wait for completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating it's still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and we cannot determine its success."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes that need to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, need to wait for previous actions to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is unknown, need to wait for it to complete before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that previous action may still be in progress."}
+{"action": "Sleep", "reason": "The last action was successful and there is no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Remove", "reason": "Red agent detected on the host, indicating a user-level compromise."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and we need to wait for its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing processes that need to complete."}
+{"action": "Sleep", "reason": "Previous action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "Last action was not completed yet and requires waiting."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown, requiring a pause."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action may still be in progress."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress, indicating ongoing operations."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating previous action is still ongoing."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and I need to wait for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, need to wait for the current action to complete."}
+{"action": "Sleep", "reason": "The last action is currently unknown and requires no further action at this time."}
+{"action": "Sleep", "reason": "The last action is currently in progress and the success status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot proceed with further actions."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Sleep", "reason": "The previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is unknown, continuing to wait for action to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating potential ongoing processes."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that further action should be deferred until the current action is resolved."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for previous action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, thus I will wait for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the previous action is still IN_PROGRESS."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating a need to wait for previous processes to complete."}
+{"action": "Sleep", "reason": "The last action was unknown, indicating the system may still be processing."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host."}
+{"action": "Sleep", "reason": "The last action is still in progress and further action cannot be taken until it is completed."}
+{"action": "Sleep", "reason": "No suspicious activity detected and last action status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "No suspicious activity detected and last action status is UNKNOWN, ensuring current actions are completed before any further actions."}
+{"action": "Sleep", "reason": "The previous action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating current actions are still in process."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and requires no further actions at this time."}
+{"action": "Sleep", "reason": "The last action is in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and I need to wait for it to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further actions cannot be executed until it completes."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, hence I will wait for the ongoing action to complete."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "No suspicious activity detected; previous action status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is still in progress, awaiting completion."}
+{"action": "Sleep", "reason": "Last action is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host indicating potential presence of a red agent."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires further time for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is unknown and no suspicious activity has been detected, indicating that we should wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions should wait."}
+{"action": "Sleep", "reason": "The last action is in progress and we cannot determine its outcome."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes that require waiting."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown, so further action should wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, maintaining current state."}
+{"action": "Sleep", "reason": "The last action is still in progress and we cannot proceed without knowing its outcome."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires monitoring."}
+{"action": "Sleep", "reason": "The last action is still in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and requires further waiting."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown, waiting for it to complete."}
+{"action": "Sleep", "reason": "Last action status is unknown and requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation for potential red agent presence."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the current operation is still in progress."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS, so I will wait for its completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and I need to wait for it to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating no further actions can be taken at this time."}
+{"action": "Sleep", "reason": "Last action is still in progress and status is unknown, therefore, I will wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further action can be taken at this moment."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for it to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and we are awaiting its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no immediate further action."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Analyse", "reason": "Suspicious activity detected on this host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, so the current action should be maintained until further assessment is possible."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host necessitates further investigation."}
+{"action": "Sleep", "reason": "The last action is in progress and further action cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The previous action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host that needs further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating an ongoing process that requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress, and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS, so I will wait for it to complete."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and has an unknown status."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN and requires waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the previous task is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before executing any further actions."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating the prior action is still in progress."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action was not completed yet."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that no new actions can be performed until the current operations are completed."}
+{"action": "Sleep", "reason": "Last action status is unknown; waiting for action completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, and I need to wait for its completion."}
+{"action": "Sleep", "reason": "The previous action is still in progress and cannot be interrupted."}
+{"action": "Analyse", "reason": "Suspicious activity detected on host, needs analysis to identify potential red agent presence."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential red activity."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown, requiring a wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no immediate threat has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is currently in progress, awaiting completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires time to determine the outcome."}
+{"action": "Sleep", "reason": "Last action is in progress, cannot execute further actions until it's completed."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action status is unknown."}
+{"action": "Sleep", "reason": "Last action is currently unknown and still in progress."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further action cannot be taken until completion."}
+{"action": "Sleep", "reason": "Last action is currently IN_PROGRESS and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown, indicating that we should wait."}
+{"action": "Sleep", "reason": "Last action status is unknown, continue waiting for completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and no suspicious activity detected, so I will wait."}
+{"action": "Sleep", "reason": "The last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress, so I will wait."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for the previous action to complete."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The previous action is still in progress and requires no further action at this time."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that previous actions are still being processed."}
+{"action": "Sleep", "reason": "The last action is still in progress and the status is UNKNOWN."}
+{"action": "Sleep", "reason": "Last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for execution completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes or actions."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown, indicating that we should wait before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be taken until it completes."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion before taking further actions."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot proceed with a new action."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN; waiting for action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is in progress, so I will wait for it to complete before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for resolution."}
+{"action": "Sleep", "reason": "The last action is still in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action status is unknown and it is in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting for completion before taking further action."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that previous actions are not yet completed."}
+{"action": "Sleep", "reason": "Last action status is unknown; waiting for completion of previous action."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and I cannot take any new action."}
+{"action": "Sleep", "reason": "Last action is still in progress, awaiting further developments."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and needs to be completed before taking further action."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, which requires further investigation."}
+{"action": "Sleep", "reason": "The last action is in progress and further action should wait until it is completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no immediate additional action."}
+{"action": "Sleep", "reason": "The last action is still in progress, awaiting completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for previous actions to complete."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, necessitating further investigation."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no further actions can be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating further analysis is required."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host; analysis is required to assess the situation."}
+{"action": "Sleep", "reason": "Last action status is unknown, need to wait for ongoing actions to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "The last action is in progress, and further action cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires additional time."}
+{"action": "Sleep", "reason": "Last action status is unknown; waiting for action to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating I should wait."}
+{"action": "Sleep", "reason": "Last action is still in progress, maintaining current status."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, requiring a pause until action completion is confirmed."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so I will continue to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "Last action is still IN_PROGRESS and status is UNKNOWN."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so continue to sleep until the last action is resolved."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting for completion."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, requiring the agent to wait."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that the previous action did not complete, and I should wait."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so waiting for the action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, maintaining current state until further clarity on action completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait."}
+{"action": "Sleep", "reason": "Last action status is unknown and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for it to complete."}
+{"action": "Sleep", "reason": "Last action status is unknown, maintaining current state until action completes."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action of analysing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing operations."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that action is still in progress."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to complete."}
+{"action": "Sleep", "reason": "Last action is in progress and cannot take new actions."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that a previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious process detected on the host indicating possible red activity."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating further action is pending."}
+{"action": "Sleep", "reason": "The last action of analysing the host is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "To collect further information relating to suspicious activity detected on the host."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires the agent to wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so I must wait for the previous action to complete."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN; no immediate threat detected to act upon."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, and we need to wait until the current action is completed."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to complete."}
+{"action": "Sleep", "reason": "Last action status is unknown, so I will wait for the current action to complete."}
+{"action": "Sleep", "reason": "The last action is in progress, and no immediate action is required based on the current network status."}
+{"action": "Sleep", "reason": "The previous action of analysing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on host indicates possible red agent presence."}
+{"action": "Sleep", "reason": "Last action is in an unknown state and requires waiting for its completion."}
+{"action": "Sleep", "reason": "The last action status is unknown, and further action should wait until the current action completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further action cannot be taken until it is completed."}
+{"action": "Sleep", "reason": "Last action is IN_PROGRESS and status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action is still in progress, so we need to wait."}
+{"action": "Sleep", "reason": "The last action was IN_PROGRESS, and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this moment."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS, and further actions cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The last action status is unknown, and it's important to wait for the completion of the current actions before taking further steps."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will maintain the current state."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress, monitoring is necessary."}
+{"action": "Sleep", "reason": "The last action was IN_PROGRESS and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating an ongoing process."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN; it is prudent to wait for the action to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and we need to wait for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to sleep until the previous action is complete."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS, so I need to wait before performing additional actions."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring analysis for potential red agent presence."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait is appropriate."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS, indicating ongoing processes that need to be completed."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is currently in progress and the status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action status is unknown, and I need to wait for the completion of the previous action."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will continue to wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be taken until completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is unknown, continuing to sleep until the process is completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes and a need to wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and further action cannot be taken until the current action completes."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no further actions can be taken until it is resolved."}
+{"action": "Sleep", "reason": "The last action is still in progress and further actions cannot be taken at this time."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS, and further actions cannot be taken until it is resolved."}
+{"action": "Sleep", "reason": "Last action is IN_PROGRESS and cannot take further actions until completed."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so I will wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is still in progress and it's unknown if it has completed."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, need to wait for current action to complete."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown, no immediate action required."}
+{"action": "Sleep", "reason": "The last action is still in progress and further actions cannot be taken until it is completed."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no additional action can be taken at this time."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for its completion."}
+{"action": "Sleep", "reason": "Last action status is unknown, and I need to wait for it to complete before proceeding."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for action completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress and I need to wait for its completion."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot proceed with new actions."}
+{"action": "Sleep", "reason": "Last action status is unknown, maintaining current state."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activities are detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we cannot take further action until it completes."}
+{"action": "Sleep", "reason": "The last action is in progress, so I will wait."}
+{"action": "Sleep", "reason": "Last action is still in progress, no further actions can be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is currently in progress."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown, indicating that further action cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for action to complete."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for the ongoing action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS, so I will wait for it to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, so I will wait for the current action to complete."}
+{"action": "Sleep", "reason": "No suspicious activity detected and last action was successful."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Remove", "reason": "Host has been compromised with suspicious activity detected."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, continuing to wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating we need to wait for the completion of the ongoing action."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to be awaited."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating ongoing processes that require monitoring."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that a previous action is still in progress."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, indicating a need to wait for completion."}
+{"action": "Sleep", "reason": "Last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress and the success of previous actions is unknown."}
+{"action": "Sleep", "reason": "Previous action is still in progress and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, requiring a wait before proceeding."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential red agent presence."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for previous action to complete."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion before taking further actions."}
+{"action": "Analyse", "reason": "Suspicious connections detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that I should wait for the outcome of the previous action."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that need to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating an ongoing process that requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing operations."}
+{"action": "Sleep", "reason": "The previous action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this moment."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for execution completion."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "Last action is in progress, waiting for it to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, awaiting completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further action cannot be taken until it is resolved."}
+{"action": "Sleep", "reason": "The last action is in an unknown state, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to complete before taking further action."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and status is UNKNOWN, indicating action status needs to be confirmed."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no further action can be taken yet."}
+{"action": "Sleep", "reason": "The last action is still in progress, so we must wait for it to complete."}
+{"action": "Analyse", "reason": "Suspicious connections detected indicating potential red agent activity."}
+{"action": "Sleep", "reason": "Last action is in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is unknown, indicating multiple steps are in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that I need to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress and requires no further actions."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown, indicating that further actions should be delayed until completion."}
+{"action": "Sleep", "reason": "Last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing analysis."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential red agent presence."}
+{"action": "Sleep", "reason": "The last action is currently in progress and further action cannot be taken until it is completed."}
+{"action": "Sleep", "reason": "Last action was IN_PROGRESS, ensuring no further interruptions occur until completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress and status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires no immediate action."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait."}
+{"action": "Sleep", "reason": "The previous action is still in progress, waiting for its completion."}
+{"action": "Sleep", "reason": "The previous action is still in progress and cannot be repeated until it is complete."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress and further actions cannot be executed yet."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS and needs to be completed."}
+{"action": "Sleep", "reason": "Last action is currently in progress, no action should be repeated."}
+{"action": "Sleep", "reason": "The last action is still in progress, so it is necessary to wait."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to complete."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress, so I will wait."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action status is unknown and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress; waiting for completion before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to complete before taking further actions."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that an action is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress; no further action can be taken until it completes."}
+{"action": "Sleep", "reason": "Last action was not confirmed, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that previous actions are still in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating an ongoing process that requires monitoring."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before any further actions can be taken."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we need to wait for its completion."}
+{"action": "Sleep", "reason": "Last action is in progress, waiting for completion."}
+{"action": "Analyse", "reason": "There are connections detected which could indicate suspicious activity, requiring further analysis."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this time."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and it requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and requires waiting."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so I will wait for the ongoing action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing operations that need to be monitored."}
+{"action": "Sleep", "reason": "The last action is still in progress, so sleeping until it completes."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that a previously initiated action is still in progress."}
+{"action": "Sleep", "reason": "Last action was in progress and status is unknown, indicating need to wait."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "Last action is still in progress and no further actions can be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is currently in progress, ensuring no conflicting actions are initiated."}
+{"action": "Sleep", "reason": "Previous action status is unknown and requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action is in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is in progress and the status is unknown, necessitating a wait."}
+{"action": "Sleep", "reason": "Last action is currently in progress, waiting for completion before taking further action."}
+{"action": "Sleep", "reason": "Last action is still in progress, awaiting confirmation before proceeding."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and needs to be completed before taking further measures."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; maintain current state until the previous action is resolved."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further analysis to ascertain the extent of red agent involvement."}
+{"action": "Sleep", "reason": "The previous action is in progress and cannot proceed with further actions."}
+{"action": "Sleep", "reason": "The last action is currently in progress, waiting for confirmation."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Previous action status is unknown, and it's necessary to wait for it to complete before taking further actions."}
+{"action": "Sleep", "reason": "Last action status is unknown, and further actions should wait until the current action is resolved."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further action can be taken."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; waiting for ongoing action to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and it's necessary to wait before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Analyse", "reason": "Suspicious connections detected; analysis needed to determine potential red agent activity."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action is in progress."}
+{"action": "Sleep", "reason": "Last action was in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; waiting for previous action to complete."}
+{"action": "Sleep", "reason": "The last action was not completed yet and needs to be allowed to finish."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that need to be complete before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; need to wait for ongoing actions to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the current action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be repeated until completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I need to wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions cannot be taken at this time."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and the status is UNKNOWN, so I will wait for its completion."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress, awaiting completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that another action is currently in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and requires no further immediate action."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires monitoring."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that we should wait for action completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions should wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that further actions cannot be determined until the previous action completes."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that there may be ongoing action processes."}
+{"action": "Sleep", "reason": "Last action is still in progress and its success status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing operations."}
+{"action": "Sleep", "reason": "The last action is in progress, and there is no new suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "No suspicious activity detected and last action was successful."}
+{"action": "Sleep", "reason": "Last action is still in progress, no immediate actions can be taken until it completes."}
+{"action": "Remove", "reason": "A red agent has been detected on the host, indicating a user-level compromise."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating it is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be allowed to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, need to wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is still in progress and needs to be completed before taking further action."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation to identify potential red presence."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, requiring no further action at this moment."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so no further actions can be executed until the previous one is resolved."}
+{"action": "Sleep", "reason": "The previous action is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, indicating potential presence of a red agent."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further actions at this time."}
+{"action": "Analyse", "reason": "Suspicious activity detected indicates potential red agent communication."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further actions are required at this time."}
+{"action": "Sleep", "reason": "Last action status is unknown, need to wait for completion."}
+{"action": "Sleep", "reason": "The last action of analysing the host is still in progress."}
+{"action": "Analyse", "reason": "To investigate the connections detected for further suspicious activity."}
+{"action": "Sleep", "reason": "The last action is in progress, and additional actions should be delayed until it completes."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still IN_PROGRESS."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS, and I need to wait for its completion."}
+{"action": "Sleep", "reason": "The previous action is still in progress and needs to be completed before taking further steps."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing actions that need to be completed before executing further actions."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, indicating ongoing processes that require waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be monitored."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that I should wait for the previous operation to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is in progress and it's uncertain if further actions can be taken."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and no suspicious activity detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for completion."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be allowed to complete."}
+{"action": "Sleep", "reason": "The last action is in progress and awaiting confirmation."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action is in progress, and further actions cannot be taken until completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action was IN_PROGRESS and its status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for the current action to complete."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating uncertainty in the current state."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further actions should wait until it is completed."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that further actions should be delayed until the current status is clear."}
+{"action": "Sleep", "reason": "The previous action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action was IN_PROGRESS and status is UNKNOWN."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating it is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is in progress, and there is no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be repeated."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, and we should wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown, thus no further action can be taken at this moment."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown, so I will continue to wait."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action is still in progress, indicating a cautious approach is required."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no other action can be taken at this moment."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes that require waiting."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the previous action has not completed yet."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for completion before taking further actions."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no further action can be taken until it is completed."}
+{"action": "Sleep", "reason": "The last action is still in progress, no further actions can be taken."}
+{"action": "Sleep", "reason": "The last action is in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be allowed time to complete."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, awaiting completion."}
+{"action": "Sleep", "reason": "Last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the system is currently in a sleep state and should continue to wait."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to be allowed to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "No suspicious activity detected and the last action status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action is currently in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the previous operation is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we should wait for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continue waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing activity."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action was IN_PROGRESS with an unknown status, so I will wait for the current action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this time."}
+{"action": "Sleep", "reason": "The last action is in progress and needs to be monitored before proceeding."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be determined if it was successful."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The previous action is currently in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action's status is UNKNOWN, indicating that action execution is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I need to wait before taking further action."}
+{"action": "Sleep", "reason": "Last action is still in progress; waiting for completion."}
+{"action": "Sleep", "reason": "Last action was not completed; need to wait."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for it to complete."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring investigation to determine if a red agent is present."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and we need to wait for it to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to be allowed to complete."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS, and further action cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is still in progress and remains unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and no suspicious activity detected, ensuring readiness for further actions."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait for it to complete."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host requires further investigation."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no further action at this time."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; therefore, it is appropriate to wait before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress, awaiting confirmation of completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, so keeping the system in a safe state is prudent."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action is currently in progress and status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that require attention."}
+{"action": "Sleep", "reason": "The last action is still in progress and further actions cannot be taken."}
+{"action": "Sleep", "reason": "The last action is currently in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating that I need to wait."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that it is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for the action to complete."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is currently in progress and unknown, so I will wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, so no further actions can be taken at this moment."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "The previous action is still in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Waiting for the previous action to complete as its status is UNKNOWN."}
+{"action": "Sleep", "reason": "Action status is IN_PROGRESS and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress, and no other suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS, so I will wait until it completes."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host that requires further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that I should remain inactive until the previous action completes."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected in the network."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that should be allowed to complete."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that action processing is still ongoing."}
+{"action": "Sleep", "reason": "The last action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for ongoing action to complete."}
+{"action": "Sleep", "reason": "The last action was not completed yet, and it's important to wait for its status before executing further actions."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN, maintaining current state is necessary."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs more time to complete."}
+{"action": "Analyse", "reason": "Suspicious connections detected, requires further investigation to determine if there are any red agents active on the host."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN, indicating a pending process that needs to be allowed to complete."}
+{"action": "Sleep", "reason": "The previous analysis action is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that action execution is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for ongoing actions to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and we cannot determine its outcome, so we need to wait."}
+{"action": "Sleep", "reason": "Last action status is unknown; waiting for ongoing action completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and I cannot determine its success."}
+{"action": "Sleep", "reason": "The last action is currently in progress and there is no suspicious activity detected."}
+{"action": "Sleep", "reason": "Last action is still in progress, so no further actions can be taken at this time."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further actions cannot be taken until it is completed."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires additional time to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for action completion."}
+{"action": "Sleep", "reason": "Last action status is unknown; continuing to wait for action completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that no further action can be taken until the current action is completed."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that I should wait for the completion of the previous action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and the system is in a low-priority phase."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait for its completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes or checks."}
+{"action": "Sleep", "reason": "The last action is still in progress and status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating uncertainty in the system's state."}
+{"action": "Sleep", "reason": "Current action status is UNKNOWN, indicating that previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that need to complete."}
+{"action": "Sleep", "reason": "The last action is in-progress, and I need to wait until it completes."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, maintaining operational integrity."}
+{"action": "Sleep", "reason": "The last action is currently in progress and waiting for completion."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS, waiting for it to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, thus remaining in sleep mode is necessary."}
+{"action": "Sleep", "reason": "Last action status is unknown and needs to be completed before proceeding with further actions."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown."}
+{"action": "Sleep", "reason": "Previous action status is UNKNOWN and current action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is unknown, indicating ongoing processes. Waiting for resolution."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for further action to complete."}
+{"action": "Sleep", "reason": "No suspicious activity detected and last action status is unknown."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious connections detected on the host warrant further analysis to identify any potential red activity."}
+{"action": "Sleep", "reason": "The last action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on host indicates potential red agent presence."}
+{"action": "Sleep", "reason": "Last action is in progress and status is unknown, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is unknown and no suspicious activity detected, so waiting for action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and status is unknown, so I will wait."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no further actions can be executed."}
+{"action": "Sleep", "reason": "The last action is in progress, and no suspicious activity was detected."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that I should wait for the ongoing process to complete."}
+{"action": "Sleep", "reason": "Last action status is unknown and action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "Last action status is unknown, awaiting completion before taking further action."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for its completion."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that it is still in progress."}
+{"action": "Sleep", "reason": "The previous action of analyzing the host is still in progress."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host indicating possible red activity."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be repeated."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no new suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, need to wait for completion before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so maintaining the current state is necessary."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, continuing to sleep until action is completed."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that further action should wait for the completion of the previous action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processing."}
+{"action": "Sleep", "reason": "Previous action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that previous operations are still in progress."}
+{"action": "Sleep", "reason": "Previous action status is unknown, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for the previous action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing action, so we should not attempt anything else."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and requires waiting for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further action cannot be determined until completion."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating ongoing work."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires a sleep state."}
+{"action": "Sleep", "reason": "Last action is currently unknown, no immediate threat detected."}
+{"action": "Sleep", "reason": "Last action is still in progress; no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action status is unknown and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be allowed to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, so I will wait."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot execute another action at this time."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to complete."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host, requiring further investigation."}
+{"action": "Sleep", "reason": "The last action is currently in progress and I cannot take further action until it is completed."}
+{"action": "Sleep", "reason": "The last action is in progress and its status is unknown, so I will continue to wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating ongoing analysis."}
+{"action": "Analyse", "reason": "Suspicious connections detected on the host that need further investigation."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating ongoing processes that require monitoring."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating that an action is already in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and further actions should wait until completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and further action cannot be taken until it completes."}
+{"action": "Sleep", "reason": "The last action is IN_PROGRESS and its status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action is in progress, and further actions cannot be taken until completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for completion."}
+{"action": "Sleep", "reason": "Last action status is unknown, and no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is still in progress, so waiting is necessary."}
+{"action": "Sleep", "reason": "The last action is in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action is still in progress and its status is unknown, so I will maintain the current state."}
+{"action": "Sleep", "reason": "Last action is still in progress; no new actions can be taken until it completes."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait."}
+{"action": "Sleep", "reason": "Last action status is unknown; need to wait for ongoing actions to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is still in progress, and further action cannot be taken at this moment."}
+{"action": "Sleep", "reason": "The previous action status is UNKNOWN."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and no suspicious activity is detected, indicating a need to wait for further updates."}
+{"action": "Sleep", "reason": "The last action is still in progress, waiting for status to update."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for current action completion."}
+{"action": "Sleep", "reason": "Last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating action is still in progress."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for its completion."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN and no suspicious activity is detected."}
+{"action": "Sleep", "reason": "Last action is IN_PROGRESS, cannot execute further actions until completion."}
+{"action": "Sleep", "reason": "Last action is currently in progress, unable to determine success."}
+{"action": "Sleep", "reason": "Last action status is unknown, continuing to wait for completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host with multiple connections and warning for suspicious process."}
+{"action": "Sleep", "reason": "Last action is still in progress, waiting for completion."}
+{"action": "Sleep", "reason": "The last action is currently in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and no immediate threat is detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and no suspicious activity detected."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, indicating a process is currently in progress."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for action to complete."}
+{"action": "Sleep", "reason": "The last action is currently in progress, so I will wait for it to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires no immediate intervention."}
+{"action": "Sleep", "reason": "The last action is still in progress, and I need to wait for its completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; need to wait until the current action is completed."}
+{"action": "Sleep", "reason": "The previous action is still in progress and I cannot determine its status."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating the need to wait for the completion of the previous action."}
+{"action": "Sleep", "reason": "The last action is currently IN_PROGRESS, and we cannot proceed until it is completed."}
+{"action": "Sleep", "reason": "Last action status is unknown, indicating that further actions should be paused until the current state is resolved."}
+{"action": "Sleep", "reason": "Last action status is unknown, waiting for previous action to complete."}
+{"action": "Sleep", "reason": "Current action is still in progress and requires no further immediate actions."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires waiting."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no suspicious activity is detected that requires immediate action."}
+{"action": "Sleep", "reason": "The last action is in progress and the status is unknown, requiring a wait for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, maintaining current state until further clarity on action execution."}
+{"action": "Sleep", "reason": "The last action is in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action is still in progress, awaiting confirmation on its status."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I will wait for it to complete."}
+{"action": "Analyse", "reason": "Suspicious activity detected on the host; requires further investigation."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action status is unknown; no further action can be determined at this time."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, maintaining current state until further information is available."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to wait for its completion."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "Last action status is unknown, must wait for completion."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to sleep."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for action completion."}
+{"action": "Sleep", "reason": "The last action is still in progress and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be repeated."}
+{"action": "Analyse", "reason": "Suspicious activity detected, including numerous connections and a warning regarding a suspicious process."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be awaited."}
+{"action": "Sleep", "reason": "The last action is still in progress, so I need to wait before taking further action."}
+{"action": "Analyse", "reason": "Suspicious process detected on host, requiring further analysis for potential red activity."}
+{"action": "Sleep", "reason": "Previous action status is unknown; waiting for further updates."}
+{"action": "Sleep", "reason": "The last action is currently in progress, and no further actions should be taken until it completes."}
+{"action": "Sleep", "reason": "Last action is in progress; no further action can be taken until it completes."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; further action cannot be determined at this moment."}
+{"action": "Sleep", "reason": "The last action is currently in progress, so no further actions can be taken until it completes."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating ongoing processes, so I will wait."}
+{"action": "Sleep", "reason": "The last action is still in progress, and no suspicious activity has been detected."}
+{"action": "Sleep", "reason": "The last action status is unknown, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating action processing is still ongoing."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for completion of previous action."}
+{"action": "Sleep", "reason": "The previous action status is unknown, indicating that action execution is still in progress."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that waiting for the completion of the last action is necessary."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, continuing to monitor before taking further action."}
+{"action": "Sleep", "reason": "Last action is still in progress, maintaining current state is necessary."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN; waiting for action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress, indicating that further analysis is being conducted."}
+{"action": "Analyse", "reason": "Suspicious activity detected on this host, indicating potential red agent presence."}
+{"action": "Sleep", "reason": "The last action status is UNKNOWN, indicating that the previous action is still processing."}
+{"action": "Sleep", "reason": "The last action is still in progress and cannot be interrupted."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, waiting for the current action to complete."}
+{"action": "Sleep", "reason": "The last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "The last action is still in progress and requires completion before taking further action."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN and currently no suspicious activity detected."}
+{"action": "Sleep", "reason": "The last action is currently in progress, waiting for completion."}
+{"action": "Sleep", "reason": "Last action status is unknown and current situation indicates no suspicious activity."}
+{"action": "Sleep", "reason": "Last action is still in progress and the status is unknown."}
+{"action": "Sleep", "reason": "Last action status is unknown, continuing to wait for action to complete."}
+{"action": "Sleep", "reason": "Last action status is UNKNOWN, and no immediate suspicious activity requires intervention."}
+{"action": "Sleep", "reason": "The last action is still in progress, and we cannot execute further actions."}
+{"action": "Sleep", "reason": "The last action is still IN_PROGRESS and requires waiting."}
+{"action": "Sleep", "reason": "The last action is still in progress and needs to be completed."}
+{"action": "Sleep", "reason": "The last action is currently in progress and further actions should wait."}
+{"action": "Sleep", "reason": "Last action status is unknown, indicating that the previous action is still in progress."}
+{"action": "Sleep", "reason": "Last action is in progress, waiting for action to complete."}
+{"action": "Sleep", "reason": "No suspicious activity detected; it's safe to maintain current state."}
+{"action": "Sleep", "reason": "Last action is still in progress."}
+{"action": "Remove", "reason": "Multiple suspicious activities detected, indicating potential user-level compromise."}

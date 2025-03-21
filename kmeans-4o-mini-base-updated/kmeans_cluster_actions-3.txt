@@ -1,0 +1,7 @@
+kmeans-4o-mini-base-updated/Kmeans Cluster Actions
+
+| Cluster #  |       Sleep      |      Analyse     |      Remove      |
+----------------------------------------------------------------------
+|     1      |        295       |        20        |         0        |
+|     2      |        45        |         5        |         0        |
+|     0      |        326       |        21        |         4        |

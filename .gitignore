@@ -5,21 +5,21 @@
 dbscan/
 kmeans/
 
-kmeans-4o-mini-base/
-kmeans-4o-mini-base-updated/
+# kmeans-4o-mini-base/
+# kmeans-4o-mini-base-updated/
 
 embeddings.json
 embeddings.pkl
-embeddings_gpt_4o_mini_base_updated.json
-embeddings_gpt_4o_mini_base_updated.pkl
-embeddings_gpt_4o_mini_base.json
-embeddings_gpt_4o_mini_base.pkl
+# embeddings_gpt_4o_mini_base_updated.json
+# embeddings_gpt_4o_mini_base_updated.pkl
+# embeddings_gpt_4o_mini_base.json
+# embeddings_gpt_4o_mini_base.pkl
 
-gpt-4o-mini-llm-trace-full-2-eps-base-updated.csv
-gpt-4o-mini-llm-trace-full-2-eps-base.csv
+# gpt-4o-mini-llm-trace-full-2-eps-base-updated.csv
+# gpt-4o-mini-llm-trace-full-2-eps-base.csv
 
 outlier_analysis.csv
 
 responses.txt
-responses_4o_mini_base_updated.txt
-responses_4o_mini_base.txt
+# responses_4o_mini_base_updated.txt
+# responses_4o_mini_base.txt

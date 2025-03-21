@@ -1,0 +1,7 @@
+kmeans-4o-mini-base/Kmeans Cluster Actions
+
+| Cluster #  | AllowTrafficZone |    DeployDecoy   |      Analyse     | BlockTrafficZone |      Remove      |
+--------------------------------------------------------------------------------------------------------------
+|     1      |        64        |         3        |        420       |        24        |        15        |
+|     2      |        25        |         4        |        105       |         8        |         6        |
+|     0      |        94        |         6        |        91        |        47        |        16        |

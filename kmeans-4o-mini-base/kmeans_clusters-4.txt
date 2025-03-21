@@ -1,0 +1,936 @@
+Cluster 1:
+- Remove: Continuing to remove potential malicious presence while the last action is in progress.
+- Analyse: Continuing the analysis for potential suspicious activity, as the last action is still in progress.
+- Analyse: The analysis is in progress, and further information is needed to confirm the network's security status.
+- Analyse: The analysis is still in progress, and further monitoring is required to assess the situation.
+- AllowTrafficZone: Currently, no suspicious activity detected and the last action was unsuccessful.
+- Analyse: Continuing to gather information on the host while the previous analysis is in progress.
+- Analyse: Continuing the analysis of the host to gather more information on potential suspicious activity.
+- Analyse: Continuing the analysis to ensure thorough investigation of potential threats.
+- Analyse: The analysis is still in progress and no suspicious activity has been detected, indicating a healthy network state.
+- Analyse: Continuing the analysis of the host since the last action is still in progress.
+- Analyse: Continuing to analyze the host as the last action is still in progress, and no suspicious activity was detected.
+- Analyse: Continuing the analysis on the host as the last action is still in progress.
+- Analyse: The previous analysis action is still in progress, indicating the need for continued monitoring and assessment of the host.
+- Analyse: The previous analysis action is still in progress, indicating ongoing monitoring of the host.
+- Analyse: The analysis is still in progress, ensuring we gather all necessary information before taking further actions.
+- Analyse: The analysis is still in progress to confirm if any suspicious activity is present.
+- Analyse: The previous action is still in progress and continues to gather information.
+- Analyse: Continuing analysis as the last action is still in progress to further investigate potential suspicious activity.
+- Analyse: Continuing analysis to determine if any compromises have occurred after the last action is still in progress.
+- Analyse: Continuing the analysis to ensure no suspicious activity is present on the host.
+- Analyse: Continuing analysis on the host as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: The analysis is still in progress; further investigation is needed on this host.
+- Analyse: Continuing to analyze the host as the previous analysis is still in progress.
+- Analyse: Ongoing analysis to check for potential suspicious activity.
+- Analyse: The ongoing analysis may provide critical insights into potential threats.
+- Analyse: The previous analysis action is still in progress, indicating ongoing monitoring for potential threats.
+- Analyse: The previous analysis action is still in progress to determine potential suspicious activities.
+- Analyse: Last action is in progress, further analysis may provide additional insights.
+- Analyse: Last analysis action is still in progress; further monitoring is needed.
+- Analyse: The last action is in progress, and further analysis is necessary to confirm the status of the host.
+- Analyse: Continuing the analysis of the host to determine the presence of potential red agents.
+- Analyse: The ongoing analysis is crucial to determine if any red agents are present on the system.
+- Analyse: Continuing the analysis of the host as the previous action is still in progress and no suspicious activity is detected.
+- Analyse: The previous analysis action is still in progress, indicating ongoing monitoring needs.
+- Analyse: The analysis is currently in progress, and it is important to complete this action to determine if there are any threats.
+- Analyse: The previous analysis is still in progress, and no further action is required at this moment.
+- Analyse: Continuing analysis of the host as the last action is still in progress.
+- Remove: The previous removal action is still in progress, ensuring that the threat is being addressed.
+- Analyse: Previous analysis attempt was unsuccessful; further investigation is necessary to ensure security.
+- Analyse: Last analysis action was unsuccessful, indicating a need to gather further information.
+- Analyse: Last analysis action was unsuccessful, and no suspicious activity is detected.
+- Analyse: Reattempting analysis after the last action was unsuccessful, no suspicious activity detected.
+- Analyse: The last analysis action was unsuccessful, indicating a need to re-evaluate the host for suspicious activity.
+- Analyse: The last analysis attempt on the host was unsuccessful and further investigation is necessary to ensure no compromise is present.
+- Analyse: Last analysis action was unsuccessful, indicating potential issues that need further investigation.
+- Analyse: Last analysis action was unsuccessful, indicating potential issues that need further investigation.
+- Analyse: Last analysis attempt failed, indicating the need for further investigation in the public access zone.
+- Analyse: Last analysis action was unsuccessful, indicating a need for further investigation.
+- Analyse: Last analysis attempt was unsuccessful, indicating a need to re-evaluate the host for any suspicious activity.
+- Analyse: The previous analysis attempt was unsuccessful, and it is important to assess the host for any suspicious activity.
+- Analyse: The previous analysis attempt was unsuccessful, and there is a need to ensure the security of the host.
+- Analyse: The last analysis action was unsuccessful, indicating a need to reassess the host for potential threats.
+- Analyse: Last analysis action was unsuccessful, indicating potential ongoing issues or new threats that need further investigation.
+- Analyse: The last analysis action was unsuccessful and further information is needed to assess potential risks.
+- Analyse: The last analysis attempt was unsuccessful, indicating a need to re-evaluate the host for potential threats.
+- AllowTrafficZone: No suspicious activity detected, allowing traffic to facilitate communication.
+- Analyse: Continuing analysis on the host to confirm the status after the last action is still in progress.
+- Analyse: The last action is still in progress, indicating that further analysis is ongoing to determine any suspicious activity.
+- Analyse: Continuing the analysis to assess any potential threats while the last action is still in progress.
+- Analyse: The analysis is still in progress and no suspicious activity was detected, it is prudent to complete the analysis to ensure network integrity.
+- Analyse: Continuing the analysis of the host as the last action is in progress and no new suspicious activity has been detected.
+- AllowTrafficZone: The zone is currently blocked and needs to allow traffic for operational continuity.
+- Analyse: The previous analysis is still in progress, and further action is necessary to monitor for potential threats.
+- Analyse: Continuing analysis as the last action is still in progress and no suspicious activity is detected.
+- Analyse: Continuing the analysis of the host to identify any potential malicious activity since the last action is still in progress.
+- Analyse: Last analysis action is still in progress; further monitoring required.
+- Analyse: The previous analysis is still in progress, and there is no new suspicious activity detected.
+- Analyse: Continuing the analysis to determine if any red activity is present after the last action.
+- Analyse: The last action is still in progress, indicating ongoing analysis to detect any potential red agent activity.
+- Analyse: Continuing analysis on the host to uncover any potential suspicious activity.
+- Analyse: The analysis is still in progress, and no immediate actions are required as no suspicious activity has been detected.
+- Analyse: The last action is still in progress, indicating ongoing analysis for suspicious activity.
+- Analyse: The previous analysis action is still in progress, indicating ongoing assessment necessary for security.
+- Analyse: The last action is still in progress and no suspicious activity is detected, continuing analysis is necessary to ensure the host is secure.
+- Analyse: Continuing the analysis of the host as the last action is still in progress.
+- Analyse: The last action is in progress, and it's important to complete the analysis to ensure there are no threats present.
+- Analyse: The analysis of the host is currently in progress and requires completion to gather further information.
+- Analyse: Continuing the analysis to gather more information regarding potential threats, as the last action is still in progress.
+- Analyse: The analysis action is already in progress to determine if there are any issues on the host.
+- Analyse: Continuing the analysis to confirm the absence of malicious activity.
+- Analyse: The last action is still in progress, indicating ongoing analysis for suspicious activity.
+- Analyse: Suspicious connections have been detected, warranting further investigation to ensure no malicious activity is occurring.
+- Analyse: Continuing to analyze host as the last action is still in progress.
+- Analyse: Suspicious connections detected from the host that need further investigation.
+- Analyse: Suspicious connections detected from the host that need further investigation.
+- Analyse: The last action is still in progress, and further analysis is necessary to confirm the status of the host.
+- Analyse: Continuing analysis as the last action is still in progress and no suspicious activity is detected.
+- Analyse: Last action is still in progress, continuing further analysis to confirm the state of the host.
+- Analyse: Last action is still in progress to gather more information on the host.
+- Analyse: The last action is still in progress, indicating ongoing analysis on the host for suspicious activity.
+- Analyse: Continuing the analysis on the host is necessary as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing analysis on this host as the previous action is still in progress.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Further investigation needed due to suspicious connections detected on the host.
+- Analyse: Ongoing analysis to confirm the status of the host after suspicious activity detection.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Analyse: Suspicious activity detected on host which requires further investigation.
+- Analyse: Last analysis is still in progress, further investigation may be required once completed.
+- Analyse: The previous analysis action is still in progress, indicating the need for further investigation.
+- Analyse: Ongoing analysis of the host to detect possible threats.
+- Analyse: Continuing to gather information on potential suspicious activity.
+- Analyse: Continuing to gather information on the host as the last action is still in progress.
+- Analyse: The last analysis action is still in progress, indicating ongoing investigation into the state of potential suspicious activity.
+- Analyse: Continuing analysis on the host to confirm if there are any indicators of compromise.
+- Analyse: The last action is still in progress, indicating ongoing investigation into potential compromises.
+- Analyse: Further investigation is needed since no suspicious activity was detected after the last action.
+- Remove: The last removal action is still in progress, indicating ongoing mitigation efforts.
+- Remove: Host has been compromised with a malicious action detected.
+- Analyse: Continuing analysis to assess potential threats on the host during the mission phase.
+- Analyse: Continuing to gather information as the last action is still in progress.
+- Analyse: Continuing analysis on the host is necessary as the last action is still in progress.
+- Analyse: The previous analysis action is still in progress, and we need to complete it to ensure thorough examination.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, and it's essential to ensure that the admin network can communicate as needed.
+- AllowTrafficZone: The action to allow traffic was not successful, and the network requires connectivity.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to ensure connectivity in the admin network.
+- Analyse: The previous analysis action is still in progress, so no further action is needed at this moment.
+- Analyse: Continuing the analysis to determine if red activity is present since last action is still in progress.
+- Analyse: The analysis is currently in progress and should be allowed to complete.
+- Analyse: Suspicious activity detected on the host, warranting further investigation.
+- Analyse: Continuing the investigation on the host where suspicious activity is being analyzed.
+- Analyse: Continuing analysis to determine the presence of red agents as the previous action is still in progress.
+- Analyse: Continuing the analysis process to determine if there are any threats present on the host.
+- AllowTrafficZone: Action is meant to ensure connectivity in a low-priority mission phase, although it was previously reported as already in the desired state.
+- AllowTrafficZone: Attempting to establish connectivity, as the last action was unsuccessful.
+- AllowTrafficZone: Previous attempt to allow traffic was unsuccessful, indicating the zone was not already in the desired state.
+- AllowTrafficZone: The zone needs to allow traffic, and the last action was unsuccessful.
+- AllowTrafficZone: Network connectivity is important in Phase 1 and no suspicious activity detected.
+- Analyse: Continuing to analyze the host as the previous analysis action is still in progress and no malicious activity has been detected.
+- Analyse: Continuing the analysis since the previous action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis on the host that is already in progress to ensure no malicious activity is present.
+- Analyse: Suspicious process detected on host, requiring further investigation.
+- Analyse: Suspicious connections detected that may indicate potential red activity.
+- AllowTrafficZone: Re-attempting to establish connectivity in the public access zone as the last action was unsuccessful.
+- AllowTrafficZone: Zone remains blocked despite the attempt to allow traffic, which is necessary for standard network connectivity.
+- AllowTrafficZone: No suspicious activity detected, enabling standard network connectivity in a low-priority phase.
+- Analyse: Continuing to analyze the host as the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing investigation into host status.
+- Analyse: The previous analysis is still in progress, and it's important to gather further information.
+- Analyse: Continuing analysis on the host to ensure no malicious activity is present.
+- Analyse: Continuing to gather information as last analysis is still in progress.
+- Analyse: Continuing analysis since the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing with the analysis as the last action is still in progress and no other suspicious activity has been detected.
+- Analyse: Continuing the analysis of the host as the last action is still in progress.
+- Analyse: Continuing the analysis on the host to gather more information.
+- Analyse: The analysis is still in progress and needs completion to assess any potential threats.
+- Analyse: There is suspicious activity detected on the host, indicating potential red agent presence.
+- Analyse: The last action is still in progress, indicating further analysis is needed.
+- Analyse: Continuing the ongoing analysis to ensure thorough checks for any potential suspicious activity.
+- Analyse: Continue the ongoing analysis to determine the state of the host.
+- Analyse: The analysis of the host is currently in progress, and no suspicious activity has been detected.
+- Analyse: Continuing the analysis on the host to gather information on potential suspicious activity.
+- Analyse: Continuing analysis on the host as the previous action is still in progress.
+- Analyse: Continuing to gather information as the last action is still in progress.
+- Analyse: Continuing the analysis of the host to determine if there are any signs of malicious activity.
+- Analyse: Continuing the analysis of the host in progress to gather more information on potential suspicious activity.
+- Analyse: Suspicious activity detected on host, requiring further analysis to identify potential red agent presence.
+- Analyse: The previous action is in progress, and no suspicious activity has been detected at this time.
+- Analyse: The analysis is still in progress, and further investigation is needed.
+- Analyse: The previous analysis is still in progress.
+- Analyse: The last analysis action is still in progress, and there are no new threats detected, so awaiting completion is prudent.
+- Analyse: Last action is still in progress, indicating ongoing analysis for suspicious activity.
+- Analyse: The previous analysis is still in progress, indicating the need for continued monitoring.
+- Analyse: Further investigation is needed due to detected connections that could indicate suspicious activity.
+- Analyse: The last action is still in progress, and no new suspicious activity has been detected.
+- Analyse: Continuing the analysis as the last action is still in progress and no suspicious activity was detected.
+- Analyse: Continuing analysis to determine if there are any suspicious activities after the last action is still in progress.
+- Analyse: Suspicious activity detected on the host
+- Analyse: The last action is still in progress, indicating ongoing analysis to detect potential threats.
+- Analyse: Continuing the analysis to confirm the status of the host as the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing investigations into suspicious activity.
+- Analyse: Continue with the analysis since the previous action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis for ongoing monitoring of potential future suspicious activity.
+- Analyse: The last action is still in progress, indicating further analysis is needed to determine the status of the host.
+- Analyse: Continuing to monitor the host as the last analysis action is still in progress.
+- Analyse: The analysis is still in progress, and no further malicious activity has been detected.
+- Analyse: The analysis is currently in progress, and no suspicious activity has been detected.
+- Analyse: Suspicious connections detected, warranting further investigation.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: The ongoing analysis may provide insight into potential threats, even though no suspicious activity is currently detected.
+- Analyse: The last action is still in progress, continuing to analyze the host for any suspicious activity.
+- Analyse: Suspicious connections detected, warranting further investigation on this host.
+- Analyse: Need to collect further information on the host experiencing suspicious connections and processes.
+- Analyse: The analysis is still in progress, and no additional suspicious activity has been detected.
+- DeployDecoy: Current action is in progress to detect potential red activity.
+- Analyse: Suspicious connections detected on the host, warranting further investigation.
+- Analyse: Continuing analysis on the host as the last action is still in progress.
+- Analyse: Suspicious connection activity detected on the host, requiring further investigation.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to ensure connectivity in the office network.
+- AllowTrafficZone: The last action was unsuccessful, and allowing traffic is necessary for standard connectivity in a non-critical phase.
+- AllowTrafficZone: Current action was unsuccessful and the office network is in a low priority phase.
+- AllowTrafficZone: Current action to allow traffic to the office network has failed, indicating the zone may still be blocked.
+- AllowTrafficZone: Zone was previously blocked; attempting to restore connectivity in a low priority phase.
+- AllowTrafficZone: Zone connectivity is required for standard operations.
+- AllowTrafficZone: The zone is currently blocked and needs to allow traffic for normal operations.
+- AllowTrafficZone: Action was unsuccessful previously, indicating the zone needs to be allowed for connectivity.
+- AllowTrafficZone: The last action to block traffic in the office network was unsuccessful, and standard network connectivity is required during the mission phase.
+- BlockTrafficZone: Prevent potential future access from compromised or malicious actors in the contractor network.
+- Remove: Last action is still in progress, continuing the removal process.
+- Remove: Host has been compromised by a red agent as indicated by the malicious action detection.
+- Analyse: Continuing the analysis of the host is necessary to determine if there are any underlying threats as the last action is still in progress.
+- Analyse: The last analysis action is still in progress, indicating ongoing investigation into the host's status.
+- Analyse: The last action is still in progress, so we will continue to monitor the analysis for potential threats.
+- Analyse: The current action is in progress to investigate potential threats.
+- Analyse: Last action is still in progress, so further analysis is required to assess the situation.
+- Analyse: The previous analysis action is still in progress and needs to be completed to assess the network for suspicious activity.
+- Analyse: Continuing the analysis as the last action is still in progress to assess any suspicious activity on the host.
+- Analyse: The analysis is still in progress to determine network status and any potential threats.
+- Analyse: The previous analysis action is still in progress and no further suspicious activity has been detected.
+- Analyse: Suspicious connections detected indicating potential red activity on the server.
+- Analyse: Continuing the analysis of the host as the previous action is still in progress to ensure no suspicious activity is missed.
+- Analyse: The current analysis is still in progress, and further examination is needed to ensure no suspicious activity is present.
+- Analyse: Continuing to monitor the host as the previous analysis action is still in progress.
+- Analyse: The previous analysis action is still in progress, and no new suspicious activity has been detected.
+- Analyse: Continuing analysis to confirm the presence of malicious activity as the last action is still in progress.
+- Analyse: The last action is still in progress, and no suspicious activity has been detected.
+- Analyse: Further analysis is needed on host with detected connections to monitor for potential malicious activity.
+- Analyse: The previous action is still in progress, indicating a need for continued monitoring of this host.
+- Analyse: Suspicious activity detected on the host indicating potential compromise.
+- Analyse: The last action is still in progress, continuing the analysis on this host.
+- Analyse: Last analysis action is still in progress, further monitoring is required.
+- Analyse: Continuing analysis to identify any potential threats.
+- Analyse: Continuing to analyze the host as the previous action is still in progress.
+- Analyse: The last analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: The previous analysis is still in progress, and no additional action is necessary at this time.
+- Analyse: Continuing the current analysis action to gather further information on the host.
+- Analyse: The last analysis is still in progress, requiring completion to assess for any potential threats.
+- Analyse: Further analysis is required to assess suspicious connections detected on the host.
+- Analyse: The previous analysis action is still in progress, indicating ongoing investigation.
+- Analyse: The previous analysis action is still in progress, further data collection is necessary.
+- Analyse: Further investigation is needed due to multiple connections detected, which could indicate suspicious activity.
+- Analyse: Continuing the analysis on the host to gather more information on potential threats.
+- Analyse: Continuing with the analysis action already in progress to detect any suspicious activity.
+- Analyse: The analysis is currently in progress, further monitoring is needed.
+- Analyse: The last analysis action is still in progress, indicating ongoing suspicious activity evaluation.
+- Analyse: The last action is still in progress, and further analysis is needed to confirm the status of the host.
+- Analyse: The analysis is still in progress and no suspicious activity has been detected.
+- Analyse: The last analysis action is still in progress, and no suspicious activity has been detected.
+- Analyse: Continue analyzing the host as the last action is still in progress and no suspicious activity is detected.
+- Analyse: Continuing the analysis on the host to confirm if there are any suspicious activities since the last action is still in progress.
+- Analyse: The previous analysis action is still in progress and no further actions are needed at this time.
+- Analyse: The previous analysis is still in progress and no further suspicious activity has been detected.
+- Analyse: Continuing the analysis on the host to confirm the absence of threats since the last action is still in progress.
+- Analyse: Continuing the analysis on the host as the last action is still in progress.
+- Analyse: The previous action to analyze the host is still in progress, and no suspicious activity is detected.
+- Analyse: The last action to analyze the host is still in progress, and there are no new suspicious activities detected.
+- Analyse: The last action is still in progress, indicating further analysis on the host is required.
+- Analyse: Continuing the analysis since it is currently in progress to check for any suspicious activity.
+- Analyse: The analysis is still in progress, indicating further investigation is required to ensure no threats are present.
+- Analyse: Continuing analysis as the last action is still in progress and no new suspicious activity has been detected.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Continue analyzing the host as the last action is still in progress, and no suspicious activity has been detected.
+- Analyse: Continuing to monitor the host as the last analysis action is still in progress.
+- Analyse: Continuing analysis on the user host as the last action is still in progress.
+- Analyse: The last analysis action is still in progress, indicating further investigation is needed.
+- Analyse: Continuing the investigation as the last action is still in progress.
+- Analyse: Continuing the analysis as the previous action is still in progress.
+- Remove: The last action is still in progress, and it is important to complete the removal of a potentially compromised host.
+- Remove: Last action was successful, indicating a potential compromise has been handled.
+- Remove: The last action to remove the host is still in progress, indicating ongoing security measures.
+- Remove: Malicious action detected from the user host in the admin network.
+- Analyse: The ongoing analysis may provide insights into potential threats, ensuring proactive defense.
+- Analyse: Continuing the analysis on the host where previous suspicious activity is being investigated.
+- Analyse: Continuing the analysis as the last action is still in progress and no new suspicious activity has been detected.
+- Analyse: Further analysis is required on the host experiencing suspicious connections.
+- Analyse: Continuing the analysis of the host to determine if red activity is present.
+- Analyse: Continuing the analysis as it is currently in progress to determine if any red activity is present.
+- Analyse: Continuing to monitor the host as analysis is still in progress to ensure no suspicious activity is missed.
+- Analyse: The ongoing analysis is crucial to ensure no malicious activity goes undetected in the office network.
+- Analyse: The analysis action is still in progress to gather information about potential suspicious activity.
+- Analyse: The last action is still in progress, indicating that further analysis is needed to determine the state of the host.
+- Analyse: Further investigation is needed due to multiple suspicious connections and a suspicious process detected on the host.
+- Analyse: The last action is still in progress, indicating ongoing analysis for potential suspicious activity.
+- Analyse: Current analysis is in progress, and further monitoring is necessary.
+- Analyse: Continuing analysis to confirm the state of the host as the last action is still in progress.
+- Analyse: The previous analysis is still in progress, and further monitoring is needed to address potential red activity.
+- Analyse: The analysis is still in progress, and we need to wait for the results before taking further action.
+- Analyse: The previous analysis is still in progress and needs to be completed to assess the situation accurately.
+- Analyse: The last action is still in progress, indicating ongoing investigation for potential threats.
+- Analyse: Continue the ongoing analysis to determine the status of potential suspicious activity.
+- Analyse: The previous analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: The analysis is currently in progress, and I want to continue monitoring the results for any suspicious activity.
+- Remove: The last action to remove the host is still in progress, indicating potential ongoing threat management.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone remains blocked and needs to be allowed for necessary connectivity.
+- AllowTrafficZone: Attempting to ensure connectivity after unsuccessful last action.
+- AllowTrafficZone: The attempt to block traffic to the public access zone was unsuccessful, indicating a need to manage the zone's access appropriately.
+- BlockTrafficZone: Zone is still vulnerable as the last blocking action was unsuccessful.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating that the zone may still be blocked, and further measures are needed to secure it during the current mission phase.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating that the zone should be accessible.
+- BlockTrafficZone: Zone is currently open and could lead to potential vulnerabilities.
+- Analyse: The analysis is still in progress to gather more information on potential threats.
+- Analyse: Suspicious activity detected on the host, indicating possible red agent presence.
+- BlockTrafficZone: Zone was already in a desired state, further action is not necessary at this moment.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential security issues in the public access zone.
+- BlockTrafficZone: Ensuring no unauthorized access during active mission phase.
+- BlockTrafficZone: The zone is currently allowing traffic but should be blocked to mitigate potential threats.
+- AllowTrafficZone: The previous action to block traffic failed, indicating that the zone may still need connectivity for operations.
+- AllowTrafficZone: The last action to block traffic was unsuccessful and we need to ensure connectivity.
+- AllowTrafficZone: The last action to block traffic was unsuccessful; allowing traffic is necessary to restore network connectivity.
+- AllowTrafficZone: The zone is currently blocked but needs to allow traffic due to mission phase requirements.
+- BlockTrafficZone: Preventative measure to secure the public access zone during active mission phase
+- AllowTrafficZone: To ensure connectivity in the public access zone during an active phase.
+- Analyse: Continuing analysis to confirm any possible threats after last action is in progress.
+- Analyse: The last action is still in progress, and additional analysis may be needed.
+- Analyse: Suspicious activity detected on host indicating potential red agent presence.
+- Analyse: Continuing analysis to gather more information about the host where suspicious activity may be present.
+- Analyse: Suspicious connections detected; further investigation needed to ensure no red activity.
+- Analyse: The last action is still in progress, and further analysis may be required to confirm the security state of the host.
+- Analyse: Current action is still in progress, further analysis is needed to ensure network security.
+- Analyse: Suspicious connections detected on the host, warranting further investigation.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating that the zone is still operational and may need connectivity restored.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- BlockTrafficZone: The last action to block the zone was unsuccessful, necessitating immediate reattempt to secure the network.
+- BlockTrafficZone: The zone is still accessible and red activity is detected in the network.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to secure the zone.
+- AllowTrafficZone: The current mission phase requires maintaining connectivity and the traffic zone is currently blocked.
+- Remove: Continuing the removal of potentially malicious processes as the last action is still in progress.
+- Remove: Last action detected a user-level compromise on the host.
+- Analyse: Continuing to analyze the host as the last action is still in progress.
+- BlockTrafficZone: Continuing to isolate the compromised subnet to prevent further access by red agents.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a potential compromise in the admin network that needs to be addressed.
+- AllowTrafficZone: Traffic should be allowed to the admin network for operational needs.
+- Analyse: Suspicious connections detected indicating possible red activity.
+- Analyse: Continuing the analysis to ensure thorough investigation since the last action is in progress.
+- Analyse: Continuing the analysis on the host to gather more information, as the last action is still in progress.
+- Analyse: The analysis is still in progress, and further monitoring is required to confirm any potential malicious activity.
+- AllowTrafficZone: Traffic to the public access zone is currently blocked, and this is important for maintaining operational connectivity.
+- AllowTrafficZone: Ensuring network connectivity during mission phase as no suspicious activity is detected.
+- DeployDecoy: Continuing the deployment of decoys to enhance detection capabilities.
+- DeployDecoy: To detect any potential red activity due to suspicious connections observed.
+- Analyse: Continuing to investigate the host since the analysis action is still in progress.
+- Analyse: The analysis of the host is still in progress, indicating a need for further investigation.
+- Analyse: Continuing to gather information as the last action is still in progress and no immediate threats were detected.
+- Analyse: The last action is still in progress, indicating ongoing analysis for potential suspicious activity.
+- Analyse: Host shows multiple suspicious connections which may indicate potential red activity.
+- AllowTrafficZone: Need to ensure communication is permitted in the admin network as the last action was unsuccessful.
+- AllowTrafficZone: The previous attempt to block traffic to the admin network was unsuccessful, so allowing traffic is necessary for normal operations.
+- BlockTrafficZone: Traffic to the admin network should be blocked to prevent potential risks during the active mission phase.
+- AllowTrafficZone: The zone is currently blocked and needs to allow traffic for proper network functionality.
+- AllowTrafficZone: The attempt to block traffic to the admin network was unsuccessful, indicating a need to allow traffic.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential security concerns.
+- AllowTrafficZone: The last action to allow traffic to the admin network was unsuccessful, and it is necessary to ensure connectivity.
+- AllowTrafficZone: There is no suspicious activity detected and connectivity may need to be ensured for operations.
+- Analyse: Continuing investigation as the analysis is currently in progress.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Analyse: Continuing analysis to gather more information on the potential threat as the last action is still in progress.
+- Analyse: Continuing analysis action is in progress to gather further information on suspicious activities.
+- Analyse: Continuing analysis is crucial to determine any potential threat on the host.
+- Analyse: There is suspicious activity detected on the host indicating potential red agent presence.
+- BlockTrafficZone: To ensure the admin network remains secure during the active mission phase.
+- BlockTrafficZone: The zone is already in the desired blocked state due to the last action being unsuccessful.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating that the zone may be compromised.
+- AllowTrafficZone: The previous action to block traffic was unsuccessful, and allowing access is necessary to ensure connectivity during mission phase.
+- BlockTrafficZone: The previous action to allow traffic was unsuccessful, indicating a need to reinforce security in the admin network during an active mission phase.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating that the zone is still blocked and needs to be opened for proper network functionality.
+- Analyse: Last action is still in progress to gather more information about potential suspicious activity.
+- Analyse: Continuing the analysis as the previous action is still in progress and no suspicious activity has been detected.
+- Analyse: The last action is still in progress, indicating further monitoring is required.
+- Analyse: The ongoing analysis is crucial to determine if any red agents are present or if any suspicious activity emerges in the admin network.
+- Analyse: The last analysis action is still in progress, suggesting ongoing investigation is required.
+- Analyse: Continuing the analysis of the host to ensure there is no red activity present.
+- Analyse: Continuing the analysis since the last action is still in progress.
+- Analyse: The previous analysis action is still in progress, indicating ongoing investigation of the host.
+- Analyse: The last analysis action is still in progress, and no new suspicious activity has been detected.
+- Analyse: Continuing to monitor the host while the last analysis action is in progress.
+- Analyse: Continuing the analysis on the host to determine if any suspicious activity is present.
+- Analyse: The last analysis action is still in progress, and no suspicious activity has been detected; continuing to monitor the host is crucial.
+- Analyse: Continuing with the analysis to further investigate potential threats.
+- Analyse: Continuing the analysis on the host to gather information on potential risks while the last action is still in progress.
+- Analyse: Further analysis is already in progress to determine any potential issues.
+- Analyse: The last analysis action is still in progress, and there is a need to continue monitoring the host for any suspicious activity.
+- Analyse: Continuing the analysis as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis of the host to gather further information on its security status as the last action is still in progress.
+- Analyse: The last action is still in progress to gather information on potential threats.
+- Analyse: The previous analysis is still in progress, but no additional suspicious activity has been detected.
+- Analyse: The previous analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: The last action is still in progress and needs to be completed to gather more information on potential suspicious activity.
+- Analyse: Continuing the analysis on the host as the last action is still in progress.
+- Analyse: Suspicious activity detected on the host with connections that may indicate potential red activity.
+- Analyse: Continuation of the analysis to confirm the status of potential threats, as the last action is still in progress.
+- Analyse: Continuing the analysis to gather more information on the host where suspicious activity is suspected.
+- Analyse: Suspicious connections detected on the host, indicating potential red activity.
+- AllowTrafficZone: The action to allow traffic was unsuccessful, and no malicious activity is currently detected.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a potential need to reattempt it.
+- AllowTrafficZone: The last block action was unsuccessful, and allowing traffic is essential during the pre-planning phase.
+- BlockTrafficZone: The public access zone is currently in a vulnerable state due to a failed attempt to block traffic, which could lead to potential threats.
+- BlockTrafficZone: Need to ensure the public access zone remains secured during the pre-planning phase.
+- BlockTrafficZone: To prevent any potential red agent access since the last action to allow traffic was unsuccessful.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone might still be blocked.
+- AllowTrafficZone: The last action was unsuccessful, indicating the zone is still blocked and needs to be accessible.
+- AllowTrafficZone: The action was unsuccessful and the zone remains blocked, indicating a need to establish connectivity.
+- AllowTrafficZone: Standard network connectivity is required during Phase 1.
+- Analyse: Continuing the analysis on the host as the last action is still in progress.
+- Analyse: Continuing the analysis of the host as the previous action is still in progress.
+- Analyse: The last action is still in progress, indicating that further analysis is ongoing.
+- Analyse: Continuing the analysis on the host to determine if any suspicious activity is present.
+- Analyse: Suspicious activity detected on the host indicating potential user-level compromise.
+- Analyse: The ongoing analysis could provide insights into potential threats.
+- Analyse: The previous analysis action is still in progress, indicating further monitoring is required on this host.
+- Analyse: Continuing the analysis to gather more information on the host's state.
+- Analyse: Continuing with the ongoing analysis to determine the status of the host.
+- Analyse: Continuing analysis as the last action is still in progress.
+- Analyse: Continuing to monitor suspicious activity as the last action is still in progress.
+- Analyse: Continuing to investigate the host for potential suspicious activity as the last analysis is still in progress.
+- Analyse: Last action is still in progress, further analysis may yield additional insights.
+- Analyse: The previous analysis action is still in progress and needs completion to assess the host's status.
+- Analyse: The last action is still in progress, indicating ongoing investigation on this host.
+- Analyse: The analysis is still in progress and further information is needed to determine the state of the host.
+- Analyse: Last action is still in progress, indicating further analysis is needed.
+- Analyse: The previous analyse action is still in progress, and no suspicious activity has been detected.
+- Analyse: Continuing the analysis of the host that is already being analyzed for potential suspicious activity.
+- Analyse: Continuing to gather information on the host as the analysis is in progress.
+- Analyse: Current action is still in progress; no further action needed at this time.
+- Analyse: The last action is currently in progress to gather more information about potential threats.
+- Analyse: The analysis is already in progress, and completing it will help determine if there are any underlying issues with the host.
+- Analyse: The analysis is already in progress to gather more information.
+- Analyse: Continuing the analysis of the host to determine any potential compromise.
+- Analyse: Last action is still in progress to understand the status of the host.
+- Analyse: Further analysis is needed due to multiple INFO connections and a WARNING for suspicious activity.
+- Analyse: The last action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis of the host to determine any potential threats as the last action is still in progress.
+- Analyse: The previous analysis is still in progress, indicating ongoing assessment is necessary before taking further actions.
+- Analyse: The previous analysis is still in progress, and no further action is currently required.
+- Analyse: The previous analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: The previous analysis is still in progress, indicating ongoing investigation into the host.
+- AllowTrafficZone: The zone is not currently blocked and this action can facilitate necessary connectivity.
+- AllowTrafficZone: The previous action to allow traffic was unsuccessful; the zone requires connectivity.
+- AllowTrafficZone: The zone is currently blocked and needs to be accessible for necessary operations.
+- AllowTrafficZone: Action was unsuccessful previously and needs to be completed to ensure connectivity in the public access zone.
+- AllowTrafficZone: Standard network connectivity is required in Phase 1, and no suspicious activity has been detected.
+- Analyse: Continuing to investigate the ongoing analysis of the host as no suspicious activity has been detected.
+- Analyse: Continuing the analysis of the host to gather more information as the last action is in progress.
+- Analyse: Continuing the analysis of the host to further investigate potential issues.
+- Analyse: The previous analysis is still in progress and no suspicious activity is detected.
+- Analyse: Last action is still in progress, indicating ongoing evaluation of the host's security status.
+- Analyse: The analysis of the host is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis to determine if there are any indications of red activity.
+- Analyse: Suspicious activity detected on the host, requiring further analysis to determine if red agents are present.
+- Analyse: Continuing analysis to ensure no threats are present since the last action is still in progress.
+- Analyse: The last action is still in progress, and no suspicious activity has been detected, indicating a need for further analysis.
+- Analyse: The analysis is still in progress to determine the presence of any suspicious activity.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Continuing the analysis of the host to gather further information while the previous action is in progress.
+- Analyse: Further investigation is underway to determine if there is any suspicious activity since no alerts or warnings have been detected.
+- Analyse: The analysis is currently in progress to ensure the host is secure.
+- Analyse: Continuing the analysis to determine the state of the host as the last action was still in progress.
+- Analyse: Continuing to investigate potential suspicious activity as the last action is still in progress.
+- Analyse: The last action is still in progress and no new suspicious activity has been detected, indicating the need to complete the ongoing analysis.
+- Analyse: Continuing to analyze the host as the last action is still in progress and no new suspicious activity has been detected.
+- Analyse: The last analysis action is still in progress, and no new suspicious activity has been detected.
+- Analyse: Continuing to analyze the host is necessary as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis on the host is crucial to determine if any suspicious activity is present.
+- Analyse: The last action to analyze the host is still in progress to collect more information.
+- Analyse: Last action is in progress, continuing analysis of the host to gather further information.
+- Analyse: Continuing analysis on the host to determine if red activity is present, as the last action is still in progress.
+- Analyse: Suspicious activity detected on the host with connections that may indicate potential red agent activity.
+- Analyse: Further analysis is needed as the last action is still in progress.
+- Analyse: Continuing analysis on a potentially suspicious host in progress.
+- Analyse: Continuing the analysis of the host where suspicious activity is being investigated.
+- Analyse: Connection attempts detected, indicating potential suspicious activity.
+- AllowTrafficZone: Ensuring proper connectivity for the admin network during the pre-planning phase.
+- AllowTrafficZone: Zone already in desired state; no suspicious activity detected.
+- AllowTrafficZone: The traffic to the admin network is currently blocked, and allowing it is necessary for operational purposes.
+- AllowTrafficZone: The last action was unsuccessful, and allowing traffic is needed for standard connectivity.
+- AllowTrafficZone: The last action was unsuccessful, and it is important to ensure the admin network traffic is permitted.
+- AllowTrafficZone: The previous attempt to allow traffic in the admin network failed, indicating it may currently be blocked.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone was already in the desired state.
+- AllowTrafficZone: The previous action to block the traffic zone was unsuccessful, and allowing traffic is necessary for standard operations.
+- BlockTrafficZone: Prevent potential unauthorized access during the analysis of the host.
+- Analyse: Continuing analysis to confirm network integrity as last action is in progress.
+- Analyse: Continuing the analysis of the host to identify any potential threats as the last action is still in progress.
+- Analyse: The previous analysis action is still in progress, and no suspicious activity has been detected.
+- Analyse: Continuing to gather information while the previous analysis is in progress.
+- Analyse: Suspicious process detected on user host which may indicate potential compromise.
+- Analyse: Suspicious connections detected; further investigation needed.
+- Analyse: Suspicious connections detected to external IP addresses which may indicate red agent activity.
+- Analyse: The previous analysis action is still in progress, indicating ongoing scrutiny of potential issues.
+- Analyse: The previous analysis is still in progress, indicating ongoing investigation on the host.
+- Analyse: The ongoing analysis of the host may reveal important information regarding the security state and is still in progress.
+- Analyse: The previous analysis is still in progress, indicating ongoing investigation into potential suspicious activity.
+- Analyse: Last action is still in progress, indicating ongoing analysis of potential suspicious activity.
+- Analyse: Suspicious activity has been detected on the host, and further analysis is necessary to understand the potential threats.
+- Analyse: The previous analysis action is still in progress, allowing continued monitoring of potential suspicious activity.
+- Analyse: The previous analysis on the host is still in progress and needs completion.
+- Analyse: The previous action is still in progress and no suspicious activity has been detected.
+- Analyse: Host has a suspicious connection detected, indicating potential malicious activity.
+- Analyse: Continuing the analysis of the host as the last action is still in progress.
+- Analyse: The previous action is still in progress and no new suspicious activity has been detected, indicating a continuation of analysis is warranted.
+- Analyse: Continuing the analysis to gather more information since the last action is still in progress.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Analyse: Continuing the analysis to gather information on the host as the last action is in progress.
+- Analyse: Current analysis action is still in progress and no suspicious activity has been detected.
+- Analyse: The last action is still in progress, continuing to gather information on potential suspicious activity.
+- Analyse: Continuing the analysis on the host where suspicious activity is being investigated.
+- Analyse: The previous analysis is still in progress and no suspicious activity has been detected.
+- Analyse: Suspicious activity detected on the host, requiring further analysis.
+- Analyse: The previous action is still in progress, and further analysis is necessary to confirm the state of the host.
+- Analyse: The previous analysis is still in progress, indicating ongoing investigation into potential vulnerabilities.
+- Analyse: The previous analysis is still in progress, and we need to wait for its completion before taking further actions.
+- Analyse: Continue the analysis to gather more information on potential threats.
+- Analyse: The analysis is still in progress and no suspicious activity has been detected.
+- Analyse: The analysis of the host is still in progress, and no suspicious activity has been detected.
+- Analyse: Continuing the analysis on the host to determine any potential threats.
+- Analyse: Last action is still in progress, suggesting further investigation is required.
+- Analyse: The previous analysis is still in progress, indicating ongoing assessment of potential threats.
+- Analyse: The analysis action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing analysis to gather further information as the last action is still in progress.
+- Analyse: The previous action is still in progress, indicating ongoing investigation of the host for suspicious activity.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Suspicious activity detected on host indicating potential red agent presence.
+- Analyse: The previous analysis on this host is still in progress, indicating potential ongoing investigation required.
+- Analyse: The previous analysis action is still in progress, and no suspicious activity is detected.
+- Analyse: The last action is still in progress, indicating further analysis is necessary to determine the state of the host.
+- Analyse: The last action is still in progress, and no new suspicious activity has been detected.
+- Analyse: The last action is still in progress, indicating ongoing investigation into potential threats.
+- Analyse: The previous analysis is still in progress and further monitoring is needed.
+- Analyse: Continuing the analysis on the host since the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing investigation of the host for potential suspicious activity.
+- Analyse: The analysis is still in progress to detect any suspicious activity.
+- Analyse: Further analysis is required to ensure no suspicious activity is present.
+- Analyse: The last action is still in progress, indicating further investigation is needed on this host.
+- Analyse: Further analysis is required as the last action is still in progress.
+- Analyse: Current analysis action is in progress, and no new threats detected.
+- Analyse: Last action is still in progress, continuing the analysis on the host.
+- Analyse: Further investigation is needed due to detected connections on the host.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- Remove: Red agent detected on the host indicating a user-level compromise.
+- Analyse: The previous analysis action on the host is still in progress, and it is crucial to complete the investigation.
+- Analyse: The last action is still in progress, indicating the need for further analysis.
+- Analyse: Continuation of the analysis to determine if any suspicious activity exists on the host.
+
+Cluster 2:
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- Analyse: Suspicious activity detected on the host; analysis needed to determine if it is compromised.
+- DeployDecoy: To detect any potential red activity following multiple connections to this host.
+- Remove: Host has been compromised with user-level access.
+- Analyse: Suspicious connections have been detected on the host, indicating potential red activity.
+- Analyse: Suspicious process detected on the host, indicating potential red activity.
+- Analyse: Suspicious activity detected on this host, requiring further investigation.
+- Analyse: Suspicious connection detected, needing further investigation to determine if red activity is present.
+- Analyse: Host shows suspicious connections and processes which need further investigation.
+- Remove: Host in admin network has been compromised as indicated by the malicious activity detected.
+- Analyse: Suspicious connections detected on the host, requiring further investigation.
+- Analyse: Suspicious connections have been detected on this host, indicating potential red activity.
+- Remove: Red agent has been detected, indicating a user-level compromise.
+- Analyse: The last action is still in progress, indicating ongoing analysis for potential issues.
+- Analyse: The last analysis action is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing the analysis to complete the ongoing investigation for suspicious activity.
+- Analyse: The last action is still in progress, and no suspicious activity has been detected, indicating a need for further analysis.
+- Analyse: Continuing analysis to confirm state since the last action is in progress.
+- Analyse: The ongoing analysis may provide further insights into potential threats, although no suspicious activity is currently detected.
+- Analyse: Last analysis action is still in progress, indicating further evaluation is needed for suspicious activity.
+- Analyse: The analysis is currently in progress to determine if there is any malicious activity on the host.
+- Analyse: Continuing the analysis of the host to verify the status as the last action is still in progress.
+- AllowTrafficZone: Traffic needs to be allowed to facilitate operations since the mission phase is pre-planning and there are no detected threats.
+- Analyse: Continuing to assess the host for potential red activity as the previous analysis is still in progress.
+- Analyse: Continued analysis is needed to confirm the status of the suspicious activity.
+- Analyse: Continuing analysis on the host as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Last action is still in progress, further analysis may be needed to detect any underlying issues.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Analyse: Continuing the analysis on the host to determine if any suspicious activity is present.
+- Analyse: The last analysis action is still in progress, indicating continued scrutiny is needed.
+- Analyse: The last action is still in progress, and no new suspicious activity has been detected.
+- Analyse: The last action is still in progress, and further analysis is needed to determine the status of the host.
+- Analyse: The last action is still in progress; monitoring for any suspicious activity should continue.
+- Analyse: The last action is still in-progress, and further monitoring is necessary.
+- Analyse: The initial analysis action is still in progress, and no further suspicious activity has been detected.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- DeployDecoy: Continuing the deployment of a decoy to enhance security in the admin network.
+- Analyse: Suspicious activity detected on host, requiring further investigation.
+- BlockTrafficZone: Zone is in a state where an action to block traffic is still necessary to secure it.
+- Analyse: Continuing the analysis to gather more information on the host's status since the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing investigation for suspicious activity.
+- Analyse: The last action is still in progress, and no suspicious activity was detected.
+- Analyse: Continuing the analysis to ensure no suspicious activity is present.
+- Analyse: Continuing analysis to confirm the status of the host, as the last action is still in progress.
+- Analyse: The analysis of the host is still in progress, and no other suspicious activity has been detected.
+- Analyse: Continuing the analysis to determine if any suspicious activity is present since the previous action was still in progress.
+- Analyse: Suspicious connections detected, indicating potential red activity that needs investigation.
+- Analyse: Last analysis action is still in progress, indicating ongoing investigation is necessary.
+- Analyse: The previous analysis action is still in progress, suggesting ongoing monitoring is necessary.
+- Analyse: Continuing analysis on the host as the last action is still in progress to ensure thorough investigation before deciding further actions.
+- Analyse: Continuing analysis of the host as the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing investigation into the host.
+- Analyse: Further investigation is necessary due to detected connections to multiple hosts, indicating potential suspicious behavior.
+- Analyse: Suspicious activity detected on the host indicating potential red agent presence.
+- Remove: Red agent detected on the host, indicating a user-level compromise.
+- AllowTrafficZone: The last action was unsuccessful, indicating that the zone needs to be allowed for traffic.
+- AllowTrafficZone: The last attempt to block the traffic to this zone was unsuccessful, and there are no detected threats.
+- AllowTrafficZone: The attempt to block traffic was unsuccessful, and the zone should allow traffic to function correctly.
+- BlockTrafficZone: Zone remains vulnerable as the previous blocking action was unsuccessful.
+- BlockTrafficZone: The public access zone is compromised as indicated by the malicious action detected in BLUE AGENT 0.
+- Analyse: The last analysis is still in progress, and there's no further suspicious activity detected.
+- BlockTrafficZone: Mission phase requires high security due to potential threats
+- BlockTrafficZone: Since the last action to block the zone was unsuccessful, it is essential to ensure the zone is secured by blocking it again.
+- Analyse: Continuing the analysis on the host to determine if there is any suspicious activity as the previous action is still in progress.
+- Analyse: The last action is still in progress, continuing to analyze for suspicious activity is essential.
+- Analyse: Continuing analysis since the last action is still in progress.
+- Analyse: Connection activity detected may indicate potential malicious behavior.
+- AllowTrafficZone: The zone is currently blocked and needs to allow traffic for operational integrity.
+- Analyse: The last analysis action is still in progress, therefore it is essential to wait for its completion before taking further actions.
+- AllowTrafficZone: Attempting to adjust traffic flow to facilitate normal operations, but the previous action indicated the zone is already allowed.
+- BlockTrafficZone: The admin network is at risk due to a previously detected malicious action.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone is still blocked.
+- Analyse: Continuing to gather information about the host as the previous analysis is still in progress.
+- Analyse: Continuing to analyze the host for any suspicious activity as the last action is still in progress.
+- AllowTrafficZone: The last action was unsuccessful, indicating a need to re-establish connectivity in the public access zone.
+- Analyse: Continuing the analysis of the host as the last action is still in progress.
+- Analyse: The previous analysis action is still in progress, and no suspicious activity has been detected.
+- Analyse: The previous analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: Continuing the analysis since the last action is still in progress.
+- Analyse: The current analysis on the host is still in progress, indicating that further monitoring is necessary.
+- Analyse: Suspicious connections detected on the host that may require further investigation.
+- AllowTrafficZone: Currently in Phase 1, and the last action was unsuccessful, indicating a need to ensure connectivity.
+- AllowTrafficZone: The zone is currently blocked and requires connectivity for proper operation.
+- AllowTrafficZone: The action was not successful, indicating that the zone is still blocked and requires re-establishment of connectivity.
+- Analyse: Host has detected a suspicious process indicating potential red activity.
+- Analyse: Continuing analysis on the host to gather more information as the last action is still in progress.
+- Analyse: Continuing to gather information on the host where suspicious activity may be detected.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to confirm connectivity.
+- Analyse: Continuing the analysis is necessary to determine the presence of any red activity, as the last action is still in progress.
+- Analyse: Continuing investigation into potential red activity since the previous analysis is still in progress.
+- Analyse: Continuing the analysis to confirm if any suspicious activity is present since the last action is still in progress.
+- Analyse: Last action is still in progress, indicating ongoing analysis is required.
+- Analyse: The last action is currently in progress, and further analysis is required to assess the situation.
+- Analyse: The ongoing analysis may need to be completed to ensure there are no threats present.
+- Analyse: The analysis on the host is still in progress, and there is no immediate threat detected.
+- Analyse: The analysis is still in progress, and further monitoring is needed to detect any suspicious activity.
+- Analyse: Suspicious activity has been detected on the host, requiring further analysis.
+- Analyse: The previous analysis is still in progress, indicating ongoing monitoring of potential suspicious activity.
+- AllowTrafficZone: The last action was unsuccessful, indicating the zone is still blocked and needs to be allowed.
+- AllowTrafficZone: The action has not completed successfully, and it is necessary to ensure connectivity.
+- Analyse: Continuing analysis on the host to ensure there is no latent red activity.
+
+Cluster 3:
+- BlockTrafficZone: Ensuring that the office network remains isolated as the last action failed to block traffic.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone might need to be blocked for security.
+- AllowTrafficZone: There is no suspicious activity detected, and the action was previously attempted but failed.
+- AllowTrafficZone: Traffic was previously blocked but the last action was unsuccessful, needing to restore connectivity.
+- BlockTrafficZone: Last action to allow traffic was unsuccessful, suggesting a need to secure the zone.
+- BlockTrafficZone: The office network is currently in an undesired state as the last action to allow traffic was unsuccessful, indicating it may be vulnerable.
+- AllowTrafficZone: Previous attempt to block the traffic zone failed, and there is no suspicious activity detected.
+- BlockTrafficZone: Traffic to/from the office network should be blocked as the last action to allow traffic was unsuccessful.
+- AllowTrafficZone: The action to allow traffic to the office network was unsuccessful, and we need to ensure connectivity.
+- AllowTrafficZone: Attempting to enable traffic to the subnet as it is currently blocked.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone may still be blocked and needs to be allowed.
+- AllowTrafficZone: The action to allow traffic was unsuccessful, indicating a potential need to reattempt ensuring connectivity.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, allowing for necessary connectivity.
+- BlockTrafficZone: Since the last action to allow traffic was unsuccessful and there is no suspicious activity detected, it's prudent to secure the zone by blocking traffic.
+- AllowTrafficZone: The last action to block the office network was unsuccessful, and allowing traffic is necessary for normal operations.
+- BlockTrafficZone: The previous attempt to allow traffic was unsuccessful, implying a potential need to restrict access to the office network.
+- AllowTrafficZone: The action to allow traffic was unsuccessful, indicating a need to retry to ensure connectivity.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating that traffic should be allowed in the office network now.
+- BlockTrafficZone: The previous action to allow traffic to the office network was unsuccessful, indicating a need to block any unauthorized traffic.
+- AllowTrafficZone: The action to allow traffic was unsuccessful, indicating the zone needs to be re-attempted to ensure connectivity.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating the zone may need to be allowed for proper functionality.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone is still blocked.
+- AllowTrafficZone: The last action to allow traffic was not successful, indicating a need to ensure connectivity.
+- AllowTrafficZone: The last action was unsuccessful, indicating that the zone should be re-allowed for traffic.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, allowing necessary connectivity in the office network.
+- AllowTrafficZone: The previous action to block the zone was unsuccessful, and the current state allows restoring the traffic flow.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to secure the zone.
+- AllowTrafficZone: Since the last action to block traffic was unsuccessful, we need to allow traffic to facilitate normal operations.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential vulnerabilities that need to be addressed.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, so it needs to be retried to restore connectivity.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone is still blocked and needs to be allowed for proper operations.
+- AllowTrafficZone: No suspicious activity detected, and the last action to allow traffic was unsuccessful.
+- AllowTrafficZone: The last action was unsuccessful, and allowing traffic is necessary to ensure network connectivity.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to control access to the zone.
+- AllowTrafficZone: The action was unsuccessful, indicating the zone is still blocked and needs to be allowed for connectivity.
+- AllowTrafficZone: The attempt to block traffic was unsuccessful, indicating the zone may still be active for communication.
+- BlockTrafficZone: Action was unsuccessful, indicating the zone is still accessible, which may expose it to potential threats.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to reattempt allowing connectivity.
+- AllowTrafficZone: The action was successful and the traffic to/from the admin network is now allowed.
+- BlockTrafficZone: Zone had a failed action to allow traffic, indicating it may need to be blocked to prevent potential threats.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating the zone is not already blocked.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, indicating that the zone may already be in a blocked state and needs to be allowed for mission operations.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential issues that need to be addressed.
+- AllowTrafficZone: Previous attempt to allow traffic was unsuccessful, indicating the zone may still be blocked.
+- BlockTrafficZone: The last action to allow traffic in the admin network was unsuccessful, indicating that the zone is currently in the desired state, thus blocking traffic will enhance security.
+- Analyse: Re-attempting analysis on the host as the previous action was unsuccessful.
+- Analyse: No suspicious activity detected, but it's prudent to ensure the network remains secure.
+- AllowTrafficZone: The last action was unsuccessful and the admin network needs to be accessible.
+- Analyse: Suspicious activity detected with connections indicating potential red agent presence.
+- AllowTrafficZone: Last action was unsuccessful and the admin network is crucial for overall operations.
+- AllowTrafficZone: Attempting to enable traffic, as the last action was unsuccessful.
+- Analyse: The previous analysis is still in progress, and no suspicious activity has been detected.
+- BlockTrafficZone: To prevent any potential red activities, even though the last action was unsuccessful.
+- BlockTrafficZone: No suspicious activity detected, but proactive measures should be taken to secure the public access zone.
+- Remove: Malicious action detected in the public access zone indicating a compromised host.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating that the zone is still blocked and needs to be unblocked for proper operation.
+- BlockTrafficZone: Zone is currently not blocked despite last action attempt being unsuccessful.
+- BlockTrafficZone: The zone should be blocked to prevent any potential access during the pre-planning phase.
+- AllowTrafficZone: Traffic is currently blocked, but the last action to allow it was unsuccessful.
+- AllowTrafficZone: The last action to block the admin network was unsuccessful.
+- AllowTrafficZone: The last action to allow traffic was not successful, and the current mission phase allows for standard network connectivity.
+- AllowTrafficZone: The zone is not currently in the desired state and needs to allow traffic as part of network operation.
+- AllowTrafficZone: Continuing to ensure proper connectivity in the admin network during pre-planning phase.
+- AllowTrafficZone: To ensure standard network connectivity during the pre-planning phase.
+- AllowTrafficZone: Traffic in the admin network is currently blocked, and the last action to allow it was unsuccessful.
+- AllowTrafficZone: The previous attempt to allow traffic was unsuccessful, indicating the zone may still be blocked.
+- AllowTrafficZone: Previous action was unsuccessful, indicating the zone needs to be allowed for traffic.
+- AllowTrafficZone: The previous attempt to allow traffic was unsuccessful, and we need to ensure connectivity in the admin network.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone is currently blocked and needs to be allowed for normal operations.
+- AllowTrafficZone: Attempting to restore connectivity in the admin network after the last action failed.
+- Analyse: Last action is still in progress, continuing to analyze the host.
+- Analyse: The last action is still in progress, indicating further investigation is necessary.
+- Analyse: Continue ongoing analysis to ensure no malicious activity is present.
+- Analyse: Continuing the analysis on the host as the last action is still in progress.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful and the zone requires connectivity.
+- AllowTrafficZone: The action to allow traffic to this zone was unsuccessful and needs to be retried.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to re-attempt it.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Continuing with the analysis of the host to determine if any suspicious activity is present since the last action is still in progress.
+- DeployDecoy: Continuing the deployment of a decoy service to monitor for potential red activity.
+- DeployDecoy: Continuing deployment of decoy to detect potential red activity in the admin network.
+- DeployDecoy: Continuing with the deployment of decoy to enhance detection capabilities.
+- DeployDecoy: The last action to deploy a decoy is still in progress, and no suspicious activity has been detected.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- Analyse: The last action is still in progress, indicating ongoing assessment for suspicious activity.
+- Analyse: Continuing the analysis on the host that is already in progress to ensure no suspicious activity is present.
+- Analyse: Continuing the analysis of the host to assess for any suspicious activity.
+- Analyse: Continuing with analysis to gather more information on potential red activity, as the last action is still in progress.
+- Analyse: Continuing the analysis to confirm the status of potential threats as the previous action is still in progress.
+- Analyse: The analysis is still in progress, and no suspicious activity has been confirmed yet.
+- Analyse: Continuing the analysis of the host to confirm the security status as the last action is still in progress.
+- Analyse: The analysis is still in progress, and no suspicious activity has been detected.
+- Analyse: Continued monitoring is necessary to ensure no red activity is present in the network.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- Analyse: Suspicious activity detected on the host indicating potential red agent presence
+- Remove: A red agent has been detected on the host with a user-level compromise.
+- Analyse: The previous action is still in progress, indicating ongoing investigation into potential threats.
+- BlockTrafficZone: The last action to block traffic was unsuccessful, indicating a need to secure the public access zone from potential threats.
+- BlockTrafficZone: Attempted to control traffic due to suspicious activity, although the previous action was unsuccessful.
+- BlockTrafficZone: No suspicious activity detected; proactive measure to ensure safety in the public access zone.
+- AllowTrafficZone: Attempting to establish standard network connectivity after the last action was unsuccessful.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, suggesting a need to secure the zone.
+- AllowTrafficZone: No suspicious activity detected, allowing necessary communications.
+- Analyse: Continuing analysis to determine the presence of red activity since the last action is still in progress.
+- Analyse: Continuing to analyze host since the last action is in progress and no suspicious activity is detected.
+- Analyse: Continuing analysis on the host as the last action is in progress and no suspicious activity detected.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the need to ensure proper communications in the admin network.
+- AllowTrafficZone: The action was attempted but not successful, indicating the need to ensure proper connectivity for operations.
+- Remove: Continuing with the removal process as it is currently in progress to eliminate the potential threat.
+- Remove: User-level compromise detected on the host.
+- Analyse: Continuing analysis to determine if any red activity has occurred on the host.
+- Analyse: The previous analysis is in progress, and I need to await its results to assess the network threat level.
+- Analyse: Continuing to analyze the host for suspicious activity as the last action is in progress.
+- AllowTrafficZone: Previous action to block traffic was unsuccessful, and the zone needs to allow traffic for normal operations.
+- AllowTrafficZone: The previous attempt to allow traffic was unsuccessful, indicating the zone is still blocked.
+- AllowTrafficZone: Attempting to restore connectivity in the public access zone as the last action to allow traffic was unsuccessful.
+- BlockTrafficZone: The last action to block traffic was unsuccessful, indicating the need to reinforce security in the public access zone.
+- BlockTrafficZone: Reinforcing security measures during the active mission phase is essential.
+- Remove: Host has been detected with a user-level compromise.
+- AllowTrafficZone: The last action to block traffic was unsuccessful, and allowing traffic is necessary for connectivity.
+- BlockTrafficZone: To ensure ongoing protection since the last attempt to block traffic was unsuccessful.
+- Analyse: The analysis is currently in progress, and monitoring is crucial to identify any potential threats.
+- Analyse: Continuing to monitor the host as the previous analysis is still in progress.
+- Analyse: Continuing analysis on the host to gather more information since the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing analysis of the host for suspicious activity.
+- Analyse: Suspicious connections detected on the host which may indicate potential red activity.
+- AllowTrafficZone: The last action to block traffic in the admin network was unsuccessful, indicating the zone may still allow traffic.
+- BlockTrafficZone: To enforce a more secure state following the previous unsuccessful attempt to block traffic in the admin network.
+- Remove: The last action is still in progress, indicating ongoing mitigation against potential threats.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- Analyse: The ongoing analysis may provide insights into potential threats or compromised states, although no suspicious activity has been detected yet.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to secure the zone during the mission phase.
+- AllowTrafficZone: The zone was previously blocked, and the last action to block it was unsuccessful, allowing restoration of normal operations.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential security concerns in the office network.
+- AllowTrafficZone: The current action is in progress and there are no detected threats, allowing traffic can enhance connectivity.
+- Analyse: Suspicious activity detected on host indicating potential red agent presence.
+- Remove: Malicious action detected in the public access zone, suggesting a compromise that needs immediate remediation.
+- AllowTrafficZone: No suspicious activity detected, and the action allows for normal operations in the admin zone.
+- Analyse: Suspicious connections detected from the host, indicating potential red activity.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating that the zone is still blocked and needs to be allowed for proper connectivity.
+- AllowTrafficZone: To ensure necessary connectivity in the admin zone during an active mission phase.
+- AllowTrafficZone: The last action was unsuccessful, indicating the need to allow traffic to the admin zone.
+- AllowTrafficZone: No suspicious activity detected, and the current action is still in progress.
+- Analyse: Continuing analysis on the host to determine if any red activity is detected.
+- Analyse: Continuing to monitor the host as the last analysis is still in progress.
+- Analyse: Continuing the analysis on the host to gather more information.
+- Analyse: Last action is still in progress, indicating further information gathering is needed.
+- Analyse: The analysis is still in progress and needs to be completed to gather more information.
+- Analyse: The previous analysis is still in progress, indicating ongoing monitoring is necessary.
+- Analyse: The analysis is still in progress, and further investigation is necessary to ensure no malicious activity is present.
+- Analyse: The last action is still in progress, and further analysis is needed to confirm the status of suspicious activity.
+- Analyse: The previous analysis action is still in progress, monitoring for suspicious activity.
+- Analyse: Suspicious connections detected on the host, requiring further investigation.
+- Analyse: The previous analysis is still in progress, ensuring that the host is monitored for any suspicious activity.
+- Analyse: Further analysis is needed to confirm the integrity of the host after the recent removal action.
+- Remove: The previous removal action is in progress for a potential compromise.
+- Remove: A red agent has been detected on the host, indicating a user-level compromise.
+- AllowTrafficZone: The last action was unsuccessful, indicating the zone was already in the desired state.
+- Analyse: The last action is still in progress, indicating further analysis is ongoing.
+- Analyse: The analysis is still in progress and no suspicious activity has been detected.
+- Analyse: The analysis is currently in progress and needs to be completed to gather information on the host.
+- Analyse: Continuing the analysis of the host to determine if any red activity is present.
+- Analyse: The previous action to analyze the host is still in progress, and no new suspicious activity has been detected.
+- Analyse: The previous analysis is still in progress and monitoring for suspicious activity is essential.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating a need to ensure connectivity.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone may still be blocked and needs to be re-allowed for operations.
+- AllowTrafficZone: Network is currently in a low priority phase with no suspicious activity detected, allowing normal operations.
+- Remove: The last action is still in progress, indicating ongoing efforts to address a potential threat.
+- Remove: User-level compromise detected on the host.
+- Analyse: The last analysis action is still in progress, indicating ongoing monitoring of potential suspicious activity.
+- Analyse: The analysis is still in progress and no suspicious activity has been detected.
+- Analyse: Continuing analysis is necessary as the last action is still in progress to assess any potential red activity.
+- Analyse: Continuing to monitor the host as the last analysis is still in progress.
+- Analyse: Continuing with the analysis of the host as the last action is still in progress.
+- Analyse: The previous analysis is still in progress, indicating continued monitoring is necessary.
+- Analyse: Continuing the analysis on the host is necessary as the last action is still in progress and no suspicious activity is detected.
+- Analyse: The last action is still in progress, and further analysis is necessary to ensure network security.
+- Analyse: Suspicious connections detected, requiring further investigation.
+
+Cluster 0:
+- AllowTrafficZone: The zone is currently blocked and should allow traffic during this mission phase.
+- DeployDecoy: Continuing the deployment of decoy services to enhance detection capabilities.
+- DeployDecoy: Continuing deployment of decoy to detect potential red activity.
+- AllowTrafficZone: The subnet is currently blocked and needs to allow traffic.
+- AllowTrafficZone: The action is already in the desired state and no suspicious activity was detected, maintaining network connectivity is important.
+- BlockTrafficZone: The zone is currently not secure, and blocking traffic is necessary to protect the network during an active mission phase.
+- AllowTrafficZone: The zone is currently blocked and allowing traffic will restore connectivity as no suspicious activity has been detected.
+- BlockTrafficZone: Traffic to/from the office network is currently allowed but should be blocked to ensure security during this mission phase.
+- BlockTrafficZone: Current mission phase indicates the need for heightened security, and there is no suspicious activity detected.
+- BlockTrafficZone: Attempting to block traffic is currently in the desired state, indicating ongoing protection measures.
+- BlockTrafficZone: To ensure security during Mission Phase 2, despite the last action being unsuccessful.
+- AllowTrafficZone: Traffic was successfully allowed, and no suspicious activity is detected.
+- AllowTrafficZone: No suspicious activity detected, enabling connectivity in the office network.
+- AllowTrafficZone: The action is already in the desired state, no further action is required.
+- AllowTrafficZone: The office network is currently blocked, and it is necessary to ensure connectivity during the mission phase.
+- AllowTrafficZone: The zone is currently in a desired state, but continuing to monitor is essential for future adjustments.
+- AllowTrafficZone: No suspicious activity detected and maintaining connectivity is crucial in mission phase.
+- AllowTrafficZone: Zone is currently blocked, and allowing traffic is necessary for network functionality.
+- AllowTrafficZone: The zone is currently blocked, and we need to enable connectivity.
+- AllowTrafficZone: The zone is currently blocked and we need to ensure connectivity during Mission Phase 2.
+- BlockTrafficZone: Ensuring the public access zone remains secure during mission phase 2.
+- BlockTrafficZone: Current phase indicates a need to restrict traffic to maintain security.
+- AllowTrafficZone: The zone was already in the desired state, indicating no current threats or issues.
+- AllowTrafficZone: No suspicious activity detected; maintaining standard connectivity is important.
+- AllowTrafficZone: The current mission phase allows for increased connectivity and there are no detected threats.
+- BlockTrafficZone: To enforce security in the mission phase and prevent any potential unauthorized access.
+- AllowTrafficZone: Necessary to ensure connectivity and functionality in the current mission phase.
+- AllowTrafficZone: This action may help ensure connectivity to the public access zone as the last action is in progress and no suspicious activity has been detected.
+- AllowTrafficZone: The action is to allow traffic to a zone that is currently blocked and there is no suspicious activity detected.
+- AllowTrafficZone: The admin network is blocked but requires connectivity for operations.
+- AllowTrafficZone: There is no suspicious activity detected, and it is important to ensure connectivity in the admin network.
+- Analyse: The last analysis attempt on the host was unsuccessful and requires re-evaluation.
+- AllowTrafficZone: Attempt was unsuccessful, and we need to ensure the zone is accessible for operations.
+- AllowTrafficZone: The action to allow traffic has failed, indicating the zone is still blocked and requires confirmation to ensure connectivity.
+- Analyse: The last action is still in progress to collect further information.
+- Analyse: Suspicious activity detected on the host, requiring further investigation.
+- AllowTrafficZone: Attempting to ensure network connectivity for administrative functions.
+- AllowTrafficZone: The last action to block the traffic in the admin network failed, indicating the zone is not blocked as intended.
+- BlockTrafficZone: Need to restrict access to the admin network as the last action to allow traffic was unsuccessful.
+- AllowTrafficZone: The zone is currently blocked and needs to allow traffic for operational integrity.
+- BlockTrafficZone: Ensuring the admin network remains isolated to maintain security.
+- BlockTrafficZone: The admin network is potentially at risk and should be isolated to prevent any unwanted access.
+- AllowTrafficZone: The previous action to allow traffic was unsuccessful and needs to be retried.
+- AllowTrafficZone: The action to allow traffic in the admin network was unsuccessful, indicating a need to attempt it again.
+- Analyse: Suspicious connections have been detected on the server, indicating potential red activity.
+- AllowTrafficZone: The last action to allow traffic was unsuccessful, indicating the zone may still need to be unlocked for communication.
+- Analyse: Further information needed as the last analysis action is still in progress.
+- Analyse: The last action is still in progress to gather more information on the host.
+- Analyse: Further information collection is necessary as the last action is still in progress.
+- Analyse: Last action is still in progress; continuing analysis is warranted to ensure no threats are present.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Continuing the analysis as the last action is still in progress to ensure thorough evaluation of potential risks.
+- Analyse: The analysis of the host is still in progress, and no suspicious activity has been detected.
+- DeployDecoy: Continuing with the deployment of a decoy to enhance detection capabilities in the admin network.
+- DeployDecoy: Preventative measure to detect potential future red activity after the last successful removal action.
+- Remove: The last action is still in progress, which indicates ongoing efforts to eliminate potential threats.
+- Analyse: Continuing to monitor for suspicious activity as the previous analysis is still in progress.
+- Analyse: Suspicious connections detected indicating potential red activity.
+- Analyse: Continuing the analysis of the host to gather insights on potential risks.
+- Analyse: The previous analysis action is still in progress, indicating ongoing investigation.
+- Analyse: Suspicious process detected on the host that needs further investigation.
+- Analyse: Suspicious activity detected on the host, indicating potential red agent presence.
+- Analyse: Continuing the analysis on the host as the previous action is still in progress.
+- AllowTrafficZone: The previous attempt to block traffic was unsuccessful, and it is essential to enable connectivity in the public access zone.
+- Analyse: Continuing the analysis of the host since the last action is still in progress.
+- Analyse: The last action is still in progress, indicating further investigation is ongoing.
+- Analyse: The analysis of the host is currently in progress to gather more information.
+- Analyse: Suspicious connections detected, indicating potential reconnaissance activity.
+- AllowTrafficZone: The last action was successful and no suspicious activity is detected in the network, allowing traffic can improve connectivity.
+- Analyse: The previous action is still in progress, indicating ongoing analysis is necessary to assess potential threats.
+- Analyse: Continuing the analysis since the previous action is still in progress and no suspicious activity has been detected.
+- Analyse: The previous analyse action is still in progress and no other suspicious activity is currently detected.
+- Analyse: Continuing the analysis as the last action is still in progress.
+- Analyse: Continuing analysis on the host is necessary as the previous action is still in progress.
+- BlockTrafficZone: The traffic zone is currently allowed but needs to be blocked to secure the network during Phase 2.
+- BlockTrafficZone: The public access zone has malicious actions detected from the network.
+- AllowTrafficZone: The zone is currently blocked and this action will restore normal connectivity.
+- BlockTrafficZone: Previously attempted to block traffic, action was not completed successfully.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating a potential need to restrict access to maintain security.
+- Remove: The previous action to remove the host is still in progress, indicating ongoing concerns with that specific host.
+- BlockTrafficZone: The public access zone is currently in an active phase, and allowing traffic could lead to exploitation.
+- BlockTrafficZone: Prevent potential unauthorized access since no suspicious activity is detected but to ensure network integrity.
+- Remove: The last action is still in progress, indicating ongoing mitigation of a potential compromise.
+- Analyse: Continuing analysis to gather more information as the last action is still in progress and no immediate suspicious activity is detected.
+- Analyse: The analysis action is still in progress, which indicates an ongoing effort to assess potential threats.
+- Analyse: Continuing analysis on the host to determine the presence of any malicious activity.
+- Analyse: The previous action is still in progress, indicating ongoing analysis is needed.
+- Analyse: The previous analysis action is still in progress and needs to be completed to assess any potential threats.
+- BlockTrafficZone: Maintaining security by ensuring the admin network remains blocked.
+- BlockTrafficZone: To prevent potential future access by red agents during an active mission phase.
+- Analyse: Continuing the analysis of the host as the last action is still in progress and no suspicious activity has been confirmed.
+- Analyse: Suspicious connection activity detected on the host.
+- AllowTrafficZone: Previous attempt to allow traffic to this zone was unsuccessful.
+- Analyse: The ongoing analysis is necessary to gather more information on any potential threats.
+- AllowTrafficZone: Traffic to the admin network is currently blocked and needs to be allowed for operational continuity.
+- BlockTrafficZone: The last action to allow traffic was unsuccessful, indicating potential issues that require blocking traffic to safeguard the network.
+- Analyse: Continuing analysis as the last action is still in progress and no suspicious activity has been detected.
+- Analyse: Suspicious activity detected on this host.
+- Analyse: Continuing analysis on the host as the last action is in progress and no suspicious activity is detected.
+- Analyse: Continuing the analysis on the host to determine the presence of red activity.
+- Analyse: The last action is still in progress, indicating ongoing monitoring for potential threats.
+- Analyse: Continuing to gather information while the current analysis is in progress.
+- Analyse: Reassessment needed as the previous action is still in progress.
+- Analyse: The analysis is still in progress and needs to be completed to evaluate the situation.
+- Analyse: Suspicious connections detected, need to assess for potential red activity.
+- AllowTrafficZone: The zone is currently blocked and needs to be accessible without any detected suspicious activity.
+- Analyse: Continuing the analysis of the host to ensure thorough investigation of potential threats.
+- Analyse: Continuing the analysis on the host to gather more information since the last action is still in progress.
+- Analyse: The last action is still in progress, indicating ongoing analysis to confirm the host's security status.
+- Analyse: The last action is still in progress, further analysis is required to conclude the evaluation.
+- Analyse: Suspicious activity detected on the host, needs further investigation.
+- Analyse: The previous analysis action is still in progress, indicating a need for further assessment of the host.
+- Analyse: Suspicious activity detected on the host, requiring further analysis.
+- Analyse: The analysis is still in progress, confirming no immediate threats or suspicious activity detected.
+- Analyse: The last action is still in progress; continuing analysis on the host is necessary to determine the state and potential threats.
+- Analyse: Last analysis is still in progress, continuing to monitor the host.
+- Analyse: Last action is still in progress, and no suspicious activity has been detected, indicating that we should continue monitoring the analysis.
+- Analyse: The last action is still in progress, indicating ongoing analysis for potential suspicious activity.
+- Analyse: Further analysis needed on host due to detected connections.
+
